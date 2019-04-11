@@ -1,0 +1,369 @@
+* practice
+** CS drills
+all: use your standard champion with standard runes and starting items; level abilities as you normally would
+
+0 CS under turret
+1 CS for 5 minutes (finish last wave)
+2 + always be moving, and check minimap between each CS
+3 + alternate pushing and not pushing
+4 + add an appropriate Intermediate bot
+
+** map awareness
+- Set a timer to beep every 7 seconds; look at minimap with each beep.
+- Hit tab a lot; use CS to track enemy jungler.
+** wave management
+???
+** things to memorize
+Time it takes to move from one place to another.
+
+** things to try
+- blocking allied minion HP bars
+- left click attack move
+
+* links
+** betting
+
+[[https://www.bet365.com/#/AC/B151/C20603934/D1/E38846226/F2/][bet365]]
+
+[[https://sports.betway.com/en/sports/grp/esports/league-of-legends/world-championship][betway]]
+
+[[https://www.pinnacle.com/en/odds/match/e-sports/league-of-legends/league-of-legends-world-championship][pinnacle]]
+
+[[https://arcanebet.com/sport/esports/3578][ArcaneBet]]
+
+** other
+
+[[https://www.reddit.com/r/leagueoflegends/comments/66w5uc/disable_scroll_zoom/][disable scroll wheel zoom]]
+[[https://www.reddit.com/r/leagueoflegends/comments/6bby3a/dev_diary_meddler_on_unusual_playstyles_in_league/dhlqnyr/][LoL vs DotA]]
+[[https://www.reddit.com/r/leagueoflegends/comments/7xw5il/zoe_is_balanced/dubxwso/][Riot doesn't want to balance LoL]]
+[[https://www.reddit.com/r/leagueoflegends/comments/86lsk0/how_has_warwick_avoided_nerfs_every_patch/dw6i75g/][winrates: Warwick-type vs Shaco-type]]
+
+** strategy
+
+[[https://www.reddit.com/r/leagueoflegends/comments/7xz0wb/what_champions_do_you_regret_purchasing_cause_you/ducct0w/][ARAM: Udyr]]
+[[https://www.reddit.com/r/summonerschool/comments/85vdl8/baron_buff_low_elo_rules_to_easily_end_the_game/][Baron buff]]
+[[https://www.reddit.com/r/leagueoflegends/comments/7u06ja/i_give_you_the_cheesiest_filthiest_strat_you_will/]["The Bible" mid strat]]
+[[https://www.reddit.com/r/ivernmains/comments/58tu0p/my_tips_for_ivern_p2_708_win_rate/][Ivern tips]] (also, ward explosive plants away from enemy)
+[[https://www.reddit.com/r/summonerschool/comments/85q6r3/jungle_101_comprehensive_guide_to_jungling_and/][jungling 101]]
+[[https://www.reddit.com/r/summonerschool/comments/872u43/league_pyramid/]["League Pyramid"]]
+[[https://www.youtube.com/watch?v=zd0boZQkyuo&feature=youtu.be][minion waves]]
+[[https://www.reddit.com/r/summonerschool/comments/842yu3/five_wave_managing_fundamentals_everyone_could/][minion waves 2]]
+[[https://www.reddit.com/r/leagueoflegends/comments/89ewxe/zoes_win_rate_in_one_for_all_is_19/][One for All stats]]
+[[https://www.reddit.com/r/leagueoflegends/comments/7xw5il/zoe_is_balanced/dubxwso/][Riot doesn't want to balance LoL]]
+[[https://i.imgur.com/tALoFMi.png][ward locations]]
+
+* complaints
+** v1
+*** too many champs
+
+Way too many champions. I think 20-40 champions would be the best amount. Maybe 36, so they could have one of every combination of roles (Tank/Fighter, Fighter/Tank, pure Support, etc). It may seem odd to say this: isn't more champions more options? More opportunities for each player to fall in love with a particular character and/or a particular set of mechanics? Well, yes, but it damages the game in the following way: part of becoming good at a game is learning each of the elements of a game (in this case, each of the champions, skills, items, etc) so that you can make decisions based on what the other player is doing. With 140+ champions, this becomes almost inevitable unless you play the game an enormous amount.
+
+It also damages the strategic element of draft pick, which I take is the main competitive mode of the game. As the game bloats with champions, it will become less meaningful to ban 5 of them, since there are so many more unbanned. The only solutions would be to either increase the number of bans per game (which seems like a bit of a chore) or start periodically removing champions from the game (which would be super 
+
+Adding champions DOES add a certain amount of positive things (fun, variety, etc) to the game, what I'm saying is that it also adds more trouble than it's worth.
+
+There's another argument in favor of lots of champions: good business sense for Riot, who make a lot of money off of new champions. I will posit that this is good business sense, but bad game design (for the reasons stated previously).
+
+*** too many items
+
+My argument here is basically the same as for champions. There are a ridiculous number of items in the game, and most of them have flavorful (rather than descriptive) names and icons. I don't find the flavorful stuff interesting since any semblence of lore is lost when you and your opponent both have the same "legendary" axe and sword equipped, and are fighting with your fists anyway.
+
+*** too many numbers
+
+I don't know why Riot has made so many numbers in their game. I suspect that either they think that more variety is always more interesting, or they are intentionally making the game confusing.
+
+For instance, there's no need to have separate states for Attack Damage and Ability Power. You could get the same effect (and make the game easier to parse) by making one stat, and just change how much each champions' abilities (and auto attacks) scaled with that stat. It would also let you remove some redundant items.
+
+I would also remove the distinction between magic damage and physical damage (and therefore the distinction between armor and magic resistance). I think the distinction between regular damage and true damage is interesting and tactical enough.
+
+Broadly speaking, I just don't like how the game has sooo much of everything, with tiny differences, when what I want is a manageable number of elements with drastic differences. Not that a LOT of the skills in the game are extremely similar, but differ in tiny and hard-to-keep-track-of ways. For instance, skills that slow down an enemy champion: some are skillshots, some aren't. Some increase over time, some decrease, some stay the same. Some also do damage. Some can hit multiple opponents...
+
+I feel like it just makes the champions a bit less interesting, and your choice of champion a bit less meaningful. It's not as meaningful to pick "the champion whose ult has infinite range" when there's six of them, or "the champ who's passive is lifesteal" when there's several of them, etc.
+
+*** free to play
+
+I had previously taken back my complaints about LoL's pricing scheme, and I would not like to un-take them back.
+
+Simply put, I have no problem with free-to-play games, unless they do the following things:
+-purposefully make the same content less fun if you don't spend money on it
+-make you more likely to win the more money you spend on it
+
+After reflection, I think LoL does both of these things, it just does them very sneakily.
+
+I don't mind that you have to purchase champions. That's just locking away content, which is the standard way of monetizing games.
+
+** v2
+
+First, too many champions. Playing a game at a more-than-beginner level requires a strong understanding of all of its major elements. Zoe is champion #134, meaning you have to learn at least 134*5=670 different abilities before you're not in constant danger of losing because you had no idea how part of the game worked. I've been playing for a couple of months now, I'm Gold V, and I still frequently have the unsatisfying experience of losing because I had no clear idea of what my enemies' could do.
+
+(I realize that more champions means more profit for Riot, but I'm criticizing the game, not Riot's business sense.)
+
+This is compounded by the fact that, as in other games that rely on endless minor variations (like Magic), there are innumerable abilities that are very similar but slightly different. The LoL wiki lists 16 types of CC, about half of which are functionally very similar. The single most common CC, slow, comes in many different durations based on length, strength, context, and increasing/decreasing. This is further compounded by not having a consistent visual or logical syntax to show what each ability does. Some knockback abilities have extra effects if they hit you into a wall, some don't. Some projectiles go through walls, some don't. When Nidalee throws a javelin, you can dodge it, but when Pantheon throws a spear, you can't. Talon's and Zed's knives do physical damage, but Katarina's do magical damage. None of these are terrible on their own, but the inconsistency means that's there no shorthand, and you have to learn each one separately.
+
+I think that to design a LoL-like game with 20-40 champions and make it work well, there are basically two solutions: add more complexity and skill expression to the controlling of a champion (for instance, Overwatch gets by with <30 champions because it's so much harder to control an FPS character), or increase the available customization for each champion. If you allow them to draw from a shared pool of customization, you can get a similar complexity and variety of strategies, while massively reducing the number of arbitrary abilities a player has to learn. Example: suppose you had 30 champions, each with a unique passive, a choice of two unique ultimates, and then you filled in the remaining 3 abilities from a shared pool of 50. Now the total possibility space is much larger, but the total number of abilities you have to remember is just 140.
+
+Next, there are too many items. This is basically the same argument as champions, so I won't go over it again, although I would like to add that it's not particularly satisfying to give the items such flavorful names when it's not relevant to actually using them (getting a Hextech Gunblade doesn't actually change your champions' appearance or attacks).
+
+Next, there are too many stats and numbers. I note in particular that there are six different types of armor penetration alone (armor pen, bonus armor pen, % armor ignore, % armor reduction, flat armor reduction, lethality).
+
+Also, I don't really know how the game is improved by having separate AD and AP stats. I'm fine with the distinction between physical and magical damage, and with some champions being more auto-attack oriented, but this is all easily solved by having one stat that all abilities and auto-attacks scale off of, and giving non-auto-attackers poor auto-attack damage scaling. Sure, this would remove the choice certain champs have of going AD or AP, but Riot seems to be doing this already, as this choice usually ends up badly (AP Yi was unhealthy and had to be nerfed; AP Tryn was unhealthy and had to be nerfed; etc). On the plus side, it would offer more champions the ability to use the really interesting items, like Zhonya's.
+
+There's other stuff, like the bad client and the bad extra game modes and how long/expensive it is to actually be able to use champs, but all that's kind of periphery to the fundamental game design.
+
+
+* old runes
+** most efficient Rune per stat, assuming Quints are worth 3x
+
+Ability Power - Quintessence
+Scaling Ability Power - Glyph
+Armor - Quintessence
+Scaling Armor - Seal
+Attack Damage - Mark
+Scaling Attack Damage - Mark
+Attack Speed - Mark
+Cooldown Reduction - Glyph / Quintessence
+Scaling Cooldownn Reduction - Glyph / Quintessence
+Critical Strike Chance - Mark
+Critical Strike Damage - Mark
+Energy - Glyph
+Scaling Energy - Glyph
+Energy Regeneration - Seal
+Scaling Energy Regeneration - Seal
+Experience - Quintessence
+Gold per 10 seconds - Quintessence
+Health - Quintessence
+Scaling Health - Seal
+Percentage Health - Seal / Quintessence
+Health Regeneration - Quintessence
+Scaling Health Regeneration - Seal
+Lethality - Mark
+Life steal - Quintessence
+Magic penetration - Mark
+Magic Resistance - Glyph, Quintessence
+Scaling Magic Resistance - Glyph
+Mana - Quintessence
+Scaling mana - Glyph
+Mana Regeneration - Quintessence (/Seal)
+Scaling Mana Regeneration - Quintessence
+Movement Speed - Quintessence
+Precision - Mark
+Revival - Quintessence
+Spell vamp - Quintessence
+
+** best stat per Rune type, assuming Quints are worth 3x
+
+Mark
+    102 Attack Damage
+    410 Scaling Attack Damage
+    410 Attack Speed
+    410 Critical Strike Chance
+    820 Critical Strike Damage
+    410 Lethality
+    205 Magic Penetration
+    820 Precision
+Seal
+    410 Scaling Armor
+    820 Energy Regeneration
+    820 Scaling Energy Regeneration
+    410 Scaling Health
+    820 Percentage Health
+    410 Scaling Health Regeneration
+    205 (Mana Regeneration)
+Glyph
+    410 Scaling Ability Power
+    820 Cooldown Reduction
+    410 Scaling Cooldown Reduction
+    820 Energy
+    820 Scaling Energy
+    102 Magic Resistance
+    205 Scaling Magic Resistance
+    410 Scaling Mana
+Quintessence
+    512 Ability Power
+    1025 Armor
+    2050 Cooldown Reduction
+    1025 Scaling Cooldown Reduction
+    2050 Experience
+    515 Gold per 10 seconds
+    2050 Health
+    2050 Percentage Health
+    2050 Health Regeneration
+    2050 Life Steal
+    1025 Magic Resistance
+    1025 Mana
+    515 (Scaling Mana)
+    1025 Mana Regeneration
+    1025 Scaling Mana Regeneration
+    2050 Movement Speed
+    1025 Revival
+    2050 Spell vamp
+
+** prospective Rune set
+
+Mark
+b   102 Attack Damage (efficient; cheapest)
+b   205 Magic Penetration (most efficient AP-based)
+Seal
+b   102 Armor (efficient; cheapest)
+a   205 Mana Regeneration (most efficient)
+Glyph
+b   102 Magic Resistance (very efficient; cheapest)
+a   410 Ability Power (most efficient)
+Quintessence
+b   1025 Attack Speed (most-ish efficient)
+b   512 Ability Power (most-ish efficient; cheapest)
+!   2050 Movespeed (not efficient; most expensive)
+
+IP to complete basic set: 9210
+Additional IP for adv set: 5535
+Additional IP for ! set: 6150
+
+* misc
+** notes from guide vidoes
+
+The Trading Stance
+The Retaliation Trade
+
+roam: bread and butter, and reaction roam
+
+jungle priority
+    1. counter gank
+    2. minion crash
+    3. certain gank
+    4. objectives
+    5. push towers
+    6. hold lane
+    7. invade (if enemy jungler occupied)
+    8. power farm
+
+
+    1. defend vulnerable allies
+    minion crash dive?
+    2. attack vulnerable enemies
+    3. take objectives
+    4. defend/attack vulnerable towers
+    5. invade enemy jungle
+    6. your jungle
+
+    1. vulnerable allies
+    2. vulnerable enemies
+    3. objectives
+    4. vulnerable all
+
+** champ cost
+
+7*450=3150
+18*1350=24300
+25*3150=78750
+45*4800=216000
+31*6300=195300
+all=517500
+
+** goofy team comps
+*** teleporters
+TOP: Shen
+JNG: Galio
+MID: Ryze
+ADC: Twisted Fate
+SUP: Tahm Kench
+
+*** invulnerable
+TOP: Tryndamere
+JNG: 
+MID: Zilean
+ADC: Kayle
+SUP: Taric
+
+*** tower-takers
+TOP: Nasus?
+JNG: Kindred?
+MID: Ziggs
+ADC: Tristana
+SUP: Sion? Taric?
+
+*** invisible
+TOP: Teemo
+JNG: Evelynn
+MID: 
+ADC: Twitch
+SUP: 
+
+*** global ults
+TOP: Gangplank
+JNG: Ezreal
+MID: Karthus
+ADC: Ashe or Draven or Jinx
+SUP: Soraka
+
+** classifying power levels
+even = defense
+odd = offense
+
+0 - Shaco R
+1 - fountain laser
+2 - stasis, Kayle ult, Tryn ult, GA, shields
+3 - turret, Vel'Koz AA, Zil E, ASol R
+4 - WW
+5 - AA, Viktor E, Zil Q, ASol Q
+
+movement, damage, CC, projectile/melee
+
+WW > AA
+WW > Viktor E
+Towershot > WW
+Yorick wall > Sion R
+ASol R = ASol P > WW > ASol Q
+Zil E > WW > Zil Q
+
+Camille R > Sion R, Galio R
+Olaf R > Bard R > Vi R
+Taliyah R > Sion R
+
+** modular MOBA
+
+Marksman (long range)
+- long range skillshot
+- delayed trap
+- attack-speed steroid
+- long-range vision
+
+Mage (medium range)
+- delayed range AoE (circle)
+- CC skillshot
+- delayed  range AoE (line)
+- point-and-click damage
+
+Support (medium range)
+- heal ally
+- shield ally
+- hook
+- AoE CC
+
+Assassin (melee)
+- stealth
+- dash
+- AA reset
+- small spin attack
+
+Tank (melee)
+- damage reduction
+- small dash + CC
+- speed boost
+- taunt
+
+Bruiser (melee)
+- large spin attack
+- lifesteal attack
+- conditional dash
+- AA steroid
+
+
+
+
+
+** scratch
+TOP Gnar P1211D201 ban Teemo
+JNG Zac R2333I011 ban Udyr, Shaco D1333P011 ban Udyr
+MID Veigar I1311S220 ban Malz
+ADC MF S1231P201 ban Ez/Vayne/Jhin
+SUP Alistar R2133I201 ban Leona

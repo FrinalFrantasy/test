@@ -1,0 +1,28 @@
+// Nathaniel Rhein
+// Class: TT 3:00 PM
+// Due date: 2019-02-07 (Thursday)
+// Homework #: 3.1
+// Source code: NR_HW3-1_2019-02-07.cpp
+// User enters a number. Program determines whether or not the number is between 1 and 100.
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  
+  cout << "This program determines whether or not a number is between 1 and 100.";
+  cin 
+
+  
+  
+  cout << "\nGoodbye!\n\n";
+}
+
+
+/* Example outputs
+
+
+
+*/

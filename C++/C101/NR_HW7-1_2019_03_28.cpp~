@@ -1,0 +1,25 @@
+// Nathaniel Rhein
+// Class: TT 3:00 PM
+// Due date: 2019-03-28 (Thursday)
+// Homework #: 7.1
+// Source code: NR_HW7-1_2019-03-28.cpp
+//
+
+
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+
+
+int main()
+{
+
+  
+}
+
+
+/* Example output
+
+
+*/

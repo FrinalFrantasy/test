@@ -1,0 +1,29 @@
+// Nathaniel Rhein
+// Class: TT 3:00 PM
+// Due date: 2019-03-07 (Thursday)
+// Homework #: 6.2
+// Source code: NR_HW6-2_2019-03-07.cpp
+// 
+
+
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+int main()
+{
+  double float Dollars=.01;
+
+  cout << "Day" << setw(20) << "Amount";
+  cout << "---" << setw(20) << "------";
+  cout << "1" << setw(20) << "$" << Dollars;
+  
+}
+
+
+/* Example output
+
+      cout << setw(10);
+
+
+*/

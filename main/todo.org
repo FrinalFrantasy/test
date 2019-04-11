@@ -1,0 +1,393 @@
+* priority 1 - urgent
+** TODO confront Berrien Dental
+** DONE advance Subaru
+CLOSED: [2019-02-20 Wed 14:35]
+
+** DONE ask Jenny about cars
+CLOSED: [2019-02-20 Wed 14:35]
+
+** DONE replace "for sale" sign
+CLOSED: [2019-02-20 Wed 14:35]
+
+** DONE add price sign
+CLOSED: [2019-02-20 Wed 14:35]
+
+** DONE put trunk cover back in
+CLOSED: [2019-02-20 Wed 14:35]
+
+** DONE add VIN report in window
+CLOSED: [2019-02-20 Wed 14:35]
+
+** DONE get better description from Dad about what to say about it
+CLOSED: [2019-02-20 Wed 14:35]
+
+* priority 2 - soon
+** TODO return toothbrush
+** TODO return black Darn Tough socks
+** TODO return Xmas Darn Tough socks
+** TODO process C++ notes
+** TODO download Visual Basic or whatever on Slughorn
+** TODO send first family newsletter (new year's edition)
+** TODO fix Prius bumper
+** TODO update calendar
+** Grace school calendar
+** TODO others from date ideas list
+* priority 3 - to do
+** TODO Emmaus sound project
+
+https://www.techrepublic.com/article/cheap-but-powerful-raspberry-pi-rival-45-nanopi-neo4-is-a-six-core-android-board-with-usb-3-0-and-4k/
+
+https://www.zdnet.com/pictures/a-dozen-faster-better-or-cheaper-alternatives-to-the-raspberry-pi/
+
+** TODO add Kretzmann, Bibles to calibre
+
+http://kretzmannproject.org/
+http://ebible.org/download.php
+
+** TODO Matt Girres
+
+https://www.yellowpages.com/plymouth-in/mip/wagoners-music-shop-9461854
+
+** TODO perry cider at D'Agostino's?
+** TODO visit St. Peter's
+
+https://www.stpetermishawaka.org/
+
+** TODO try out other free ebooks/etc apps on phone
+
+https://www.rbdigital.com/
+
+** TODO add plastic "nail" to work gloves??
+** TODO reseason cast iron skillet
+
+http://www.castironcollector.com/electrolysis.php
+
+** TODO make paper airplanes
+
+https://paperairplaneshq.com/
+
+https://www.artofmanliness.com/articles/how-to-make-the-worlds-best-paper-airplanes/
+
+Decide on the best one(s)
+
+** TODO get white and/or brown and/or pink noise files
+** TODO cut/scan Thinking Physics
+** TODO cut/scan Classical guitar
+** TODO look into getting a VPN
+** TODO fix/regularize formatting in links_reference
+** TODO fix/regularize formatting in recipes
+** TODO fix/regularize formatting in songs
+** TODO do finances, instead of Sarah
+
+As of the new loan, we're now playing tax and insurance... Automatic? 
+
+** TODO Pearl re: Great comet
+** TODO send second family newsletter (Curdie edition)
+** TODO empty hardware out of work coat
+** TODO repair work coat
+** TODO repair work gloves
+** TODO repair work overalls
+** TODO move all misc hardware (nails etc) to dediced box (plastic?)
+** TODO decide on new fitness regimen
+
+Including agility
+Including Grease the Groove?
+
+** TODO decide on new stretching regimen
+** TODO get another of exercise for Sarah
+** TODO Ethan re: Urth, dreams, Alzabo, complaints
+** TODO Scotch re: every episode
+
+https://tapestryradio.org/news-updates/2018/12/31/calling-for-feedback
+
+** TODO get snacks and wipes for Y childcare
+** TODO decide on CC vs cash strategy
+
+[[tynan.com/plastic][Tynan's advice]]
+
+** TODO re-stock kid meds
+
+Including chewable Tylenol
+
+** TODO check/replace smoke alarms etc
+** TODO check/replace/recharge fire extinguisher
+** TODO take care of VirWoX / bitcoin
+** TODO set up long-term gift prepping list
+
+Christmas, Mother's/Father's Day, Valentine's, birthdays, anniversery... look at everything in the next year.
+Look at godchildren.
+
+** TODO de-smell bottles
+
+http://www.themamasgirls.com/how-to-get-the-smell-out-of-bottles/
+
+** TODO transition to Zhorp email address
+** decide on "Zhorp" vs others
+
+https://www.godaddy.com/domains/bulk-domain-search.aspx
+use Hover 10 years promotion? or just do it myself?
+
+** TODO keep up with drawabox
+** TODO take another look at IUSB job postings (maybe later)
+
+https://iujobs.peopleadmin.com/postings
+
+** TODO help Sarah out with skincare stuff
+
+https://www.reddit.com/r/SkincareAddiction/wiki/beginners
+Maybe Valentine's gift?
+
+** TODO work on horizontal family tree
+
+Will have to email people...
+
+* priority 4 - some day
+** TODO set up codeword(s) with Sarah (and kids?) - duress signals, etc.
+* semi filed
+** yes
+
+- Anki
+- Duolingo / Spanish
+- draw something
+- Kahne writing
+- write lol
+- check calendar
+- set wake-up alarm
+- process the day's stuff?
+- journal (including sleep)
+- handwrite affirmations
+- 1 min dead hang (exercise section)
+- K (and advance K, if necessary)
+- take vitamin(s)
+- mobility exercises
+- cardio 30 min
+- stretches
+- strength exercise
+- meditate 10 min
+- dress kids
+- make Zip's lunch (for school days...)
+- nap?? consider nap??
+- breathe deep
+- make bed
+- get dressed
+- write sarah's note
+- get Sarah's stuff ready
+
+- misc
+- sell or get rid of old boots
+- replace utility bathroom doorknob
+- set up phone for emergency texts/calls
+- Change air filter
+- Check propane level
+- Establish character voices
+- Expedition oil change and check-up
+- Subaru oil change and check-up
+- new toothbrush(es)
+- print car manual(s)
+- go through that Linux tutorial
+- figure out kids' Lakeland Mycharts (Sarah has access?)
+
+- pre-church, etc
+- pack...
+-- day bag
+-- gym bag
+-- diaper bag
+-- nebulizer bag
+
+
++ dates
+++ All birthdays... don't forget Emma's
+++ Valentine's Day - Feb 14
+++ Father's day
+++ Mother's day
+++ wedding anniversery
++ consolidate Emmaus calendar
++ expirations
+++ passports
+++ nursing license
+++ CPLs?
+++ Curdie rabies shot etc
+- backup...
+-- inoreader
+-- Podcast Addict
+-- phone
+-- toodledo (that is, the task manager itself)
+- have ears cleaned
+- check and record moles
+- record weight, b/p
+- contact sisters
+- date
+
+- Curdie
+-- trim claws
+-- bathe him
+-- brush fur
+-- practice obedience
+
+- cleaning
+-- vacuum 1/2
+-- mop
+-- change sheets (us, Z, G)
+-- change pillow case
+-- dust
+-- dishes
+-- laundry
+-- take out trash
+-- make bed
+-- clean each car...
+
+** maybe
++ check Audible for unused credits
++ process...
+-- desktop screenshots
+++ laptop screenshots
+-- phone screenshots
+-- reddit links
+-- !todo or !temp
+-- TiddlyWiki to emacs (or whatever)
+-- outstanding emails 
+- tomorrow's supper?
+- read a Psalm / part of the Bible
+- clip nails (mine, kids)
+- kids' school, anki
+- cut hair (mine, Zip's)
+- bathe kids
+- email...
+-- David G
+-- Adam L
+-- Patrick C
+-- Adam Stuck
+-- Sarah's friends (Haley, Jill, Elle, Annalise, Anna Hart)
+-- Ethan B
+-- Zack C
+-- Erik / Matt Horner
+
+** TODO scan books
+
+LSB organist edition, LW, TLH
+other hymnals?
+Peterson book
+Learning Physics
+English usage dictionary
+
+** TODO Emmaus security cameras
+** TODO price
+** TODO wireless vs wired?
+** TODO possible to go through the existing panels?
+** TODO improve Emmaus sound stuff
+** TODO contact Dave Smith about better recorder
+** TODO investigate vibration-proof mic holder
+** TODO guide to household cleaning?
+** TODO acquire small metal container(s), mainly for lotion
+** TODO to purchase:
+** DONE aux cord
+CLOSED: [2018-07-26 Thu 07:14]
+
+** DONE large gloves
+CLOSED: [2018-07-26 Thu 07:14]
+
+** TODO lightbulbs
+** TODO PlastX
+** TODO to purchase (long term)
+** TODO expedition parka
+** TODO The Nativity Story
+** TODO lamps for living room
+** TODO accoustic foam
+** TODO If We Were Vampires
+** TODO solar/pedal charger
+** TODO fix Expedition tires (won't come off)
+
+https://www.ford-trucks.com/forums/1182065-tires-unbolted-wont-come-off-help.html
+
+** TODO to 3D print
+** Reuleaux Triangles - solids of constant width
+** DONE boxes for various card games
+** TODO fix music collection
+** TODO problem with "Murai/PSO Dvorak Symphony #7- I"
+** TODO progress lucid
+** TODO Android security
+
+AndroidLost equally good, with some nifty features like you can pop up a message on screen (eg. battery low), then when the person holding the phone pushes ok it takes a front-cam picture and sends it to your email
+
+Prey - in case your phone is stolen/lost.
+
+** TODO Podcast Addict to backups
+** TODO Imaginary Worlds podcast
+** TODO alphabetical noun list for Zip? visual drawing dictionary for him?
+
+* UNFILED
+
+Keep
+R11 Chrome
+reddit manager
+
+Drive
+Slughorn desktop
+Slughorn NRBR
+
+** https://www.nutstop.com/product/sunflower-kernels-hot/
+** https://www.doctoroz.com/recipe/spicy-roasted-sunflower-seeds
+** https://www.reddit.com/r/Entrepreneur/comments/9n8xyj/inventrepreneurship_i_took_an_idea_to_mass/
+** https://www.reddit.com/r/malefashionadvice/comments/ab31jf/i_got_sick_of_trying_to_find_shirts_that_fit/
+** https://archive.org/details/GBTGBook1/page/n7
+** https://www.reddit.com/r/mildlyinfuriating/comments/a7zegj/and_now_stuck_with_it_for_three_years/
+** https://www.reddit.com/r/NeutralPolitics/comments/a7k90f/in_nations_practicing_universal_healthcare_that/
+** long link
+https://www.reddit.com/r/SideProject/comments/a76nd8/%F0%9D%99%B8_%F0%9D%9A%96%F0%9D%9A%8A%F0%9D%9A%8D%F0%9D%9A%8E_%F0%9D%9A%8A_%F0%9D%9A%A0%F0%9D%9A%8E%F0%9D%9A%8B%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%8E_%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%9D_%F0%9D%9A%95%F0%9D%9A%8E%F0%9D%9A%9D%F0%9D%9A%9C_%F0%9D%9A%A2%F0%9D%9A%98%F0%9D%9A%9E_%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%8E_%F0%9D%95%B1%F0%9D%96%86%F0%9D%96%93%F0%9D%96%88%F0%9D%96%9E_%F0%9D%95%B1%F0%9D%96%94%F0%9D%96%93%F0%9D%96%99%F0%9D%96%98/
+
+** https://www.reddit.com/r/AskWomen/comments/a6p8ny/the_first_ever_shaving_commercial_to_feature/
+** https://www.reddit.com/r/DIY/comments/84ekdc/i_built_an_indoor_play_structure_for_my_kids/
+** https://psychologycompass.com/blog/boost-self-regulation-skills/
+** https://www.reddit.com/r/LetsNotMeet/comments/a4sx6o/i_kill_people/
+** https://www.artofmanliness.com/articles/how-to-make-the-worlds-best-paper-airplanes/
+** https://www.reddit.com/r/Tinder/comments/9zjelm/i_know_i_am_not_the_best_looking_dude_so_what_i/eaa5yh9/
+** https://www.geniuskitchen.com/recipe/40-minute-hamburger-buns-183081?ref=amp&ftab=reviews
+** https://www.reddit.com/r/wholesomebpt/comments/9w4yjq/code_words_can_save_lives/
+** https://www.reddit.com/r/getdisciplined/comments/9t0gqz/method_how_i_went_from_rock_bottom_to_disciplined/
+** https://www.reddit.com/r/Entrepreneur/comments/9n8xyj/inventrepreneurship_i_took_an_idea_to_mass/
+** how to trim hair - need new ear pieces?
+** Get old trimmer stuff to Mutti
+
+** https://conciliarpost.com/theology-spirituality/the-erotic-gift-of-self-denial/
+** https://www.artofmanliness.com/articles/pull-ups-fitness-routine/
+** update health journal
+** re-do health journal
+** make daily list re: health journal and Triggers questions
+** get ready for Bible Class
+** find Esther movie
+** add album covers
+** re Tobias
+** figure out time tracking
+
+** Genius Kitchen hot and spicy peanuts
+** Mpow earmuffs
+** The Bell Jar
+** The Wallaby Wallet
+** Inspired Taste Easy Hummus Recipe - Better than store-bought
+** healthy nibbles Savory Oatmeal with Cheddar and Fried Egg
+** kitchn How to make congee rice porridge
+** siguie tested Homemade Xylitol Candy
+** Thrillist My Quest to Reverse Engineer The Halal Guys' White Sauce Recipe
+** 4 steps re: OCD
+
+"25 years of compulsive urges and obsessive thoughts made my brain an unbearable place. Suicide was the obvious solution. "Brain Lock", by Jeffrey M. Schwartz, MD saved my life. On my arm is written the Four Step Self Treatment Method. Cognitive behavioral therapy can rid us of our nightmare!"
+
+"Relabel: you call the intrusive thought or urge to do a troublesome compulsive behavior exactly what it is: an obsessive thought or a compulsive urge. The question arises, "why is this bothering me?"
+
+Reattribute: you say, "It keeps bothering me because I have a medical condition called OCD. I am having the symptoms of a medical problem."
+
+Refocus: refocus your attention on another behavior by doing something useful and positive.
+
+Revalue: you will learn to devalue unwanted obsessive thoughts and compulsive urges as soon as they intrude. You will come to see intrusive OCD symptoms as the useless garbage they really are."
+
+** mental scratch
+
+http://hsperson.com
+https://psychology-tools.com/autism-spectrum-quotient/
+https://aspietests.org/userdetails.php?target=/raads/questions.php
+https://www.reddit.com/r/hsp/top/
+https://smile.amazon.com/dp/B076L7V7H2/ref=cm_sw_r_cp_apap_uoXtq3UBJqHsa?sa-no-redirect=1#customerReviews
+https://en.wikipedia.org/wiki/Sensory_processing_disorder#Standardized_tests
+
+
+[[https://www.reddit.com/r/LearnUselessTalents/comments/6lwtrh/learn_to_whistle_loudly_with_no_fingers/][whistle with no fingers]]

@@ -1,0 +1,150 @@
+// Nathaniel Rhein
+// Class: TT 3:00 PM
+// Due date: 2019-02-21 (Thursday)
+// Homework #: 4.1
+// Source code: NR_HW4-1_2019-02-21.cpp
+// The user enters their letter grade and total credit hours for two classes, and the program calculates their overall GPA.
+
+
+/* Algorithm
+
+
+  // User input
+  write "This program will calculate your GPA based on the grades from two classes."
+  write "\n\nEnter letter grade for first class --> "
+  read Class1Letter
+  write "Enter number of credit hours for first class --> "
+  read Class1Hours
+  write "\nEnter letter grade for second class --> "
+  read Class2Letter
+  write "Enter number of credit hours for second class --> "
+  read Class2Hours
+
+  switch (Class1Letter) // Converts first letter grade to GPA
+    case 'A' Class1Grade=4.0; break;
+    case 'B' Class1Grade=3.0; break;
+    case 'C' Class1Grade=2.0; break;
+    case 'D' Class1Grade=1.0; break;
+    case 'F' Class1Grade=0.0; break;
+
+  switch (Class2Letter) // Converts second letter grade to GPA
+    case 'A' Class2Grade=4.0; break;
+    case 'B' Class2Grade=3.0; break;
+    case 'C' Class2Grade=2.0; break;
+    case 'D' Class2Grade=1.0; break;
+    case 'F' Class2Grade=0.0; break;
+
+  Gpa = (Class1Grade * Class1Hours + Class2Grade * Class2Hours)
+    / (Class1Hours + Class2Hours) // Calculates overall GPA
+  write Class1Letter, "   ", Class1Hours
+  write Class2Letter, "   ", Class2Hours
+  write "Your GPA = ", Gpa
+
+  if (Gpa >= GOODGPA)
+      write "Congratulations, doing good!"
+  else if (Gpa < BADGPA)
+      write "You are doing poorly!"
+
+
+*/
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  const float GOODGPA=3.5, BADGPA=2;
+  char Class1Letter, Class2Letter;
+  float Class1Hours, Class2Hours, Class1Grade, Class2Grade;
+
+  // User input
+  cout << "\nThis program will calculate your GPA based on the grades from two classes.";
+  cout << "\n\nEnter letter grade for first class --> ";
+  cin >> Class1Letter;
+  cout << "Enter number of credit hours for first class --> ";
+  cin >> Class1Hours;
+  cout << "\nEnter letter grade for second class --> ";
+  cin >> Class2Letter;
+  cout << "Enter number of credit hours for second class --> ";
+  cin >> Class2Hours;
+
+  switch (Class1Letter) // Converts first letter grade to GPA
+    {
+    case 'A': Class1Grade=4.0; break;
+    case 'B': Class1Grade=3.0; break;
+    case 'C': Class1Grade=2.0; break;
+    case 'D': Class1Grade=1.0; break;
+    case 'F': Class1Grade=0.0; break;
+    }
+  switch (Class2Letter) // Converts second letter grade to GPA
+    {    
+    case 'A': Class2Grade=4.0; break;
+    case 'B': Class2Grade=3.0; break;
+    case 'C': Class2Grade=2.0; break;
+    case 'D': Class2Grade=1.0; break;
+    case 'F': Class2Grade=0.0; break;
+    }
+
+  float Gpa = (Class1Grade * Class1Hours + Class2Grade * Class2Hours)
+    / (Class1Hours + Class2Hours); // Calculates overall GPA
+  cout << endl << Class1Letter << "   " << Class1Hours;
+  cout << endl << Class2Letter << "   " << Class2Hours;
+  cout << endl << "Your GPA = " << Gpa << endl;
+
+  if (Gpa >= GOODGPA)
+    {
+      cout << "Congratulations, doing good!\n";
+    }
+  else if (Gpa < BADGPA)
+    {
+      cout << "You are doing poorly!\n";
+    }
+
+  cout << endl;
+}
+
+
+/* Example outputs
+
+
+This program will calculate your GPA based on the grades from two classes.
+
+Enter letter grade for first class --> B
+Enter number of credit hours for first class --> 3
+
+Enter letter grade for second class --> C
+Enter number of credit hours for second class --> 4
+
+B   3
+C   4
+Your GPA = 2.42857
+
+
+This program will calculate your GPA based on the grades from two classes.
+
+Enter letter grade for first class --> B
+Enter number of credit hours for first class --> 3
+
+Enter letter grade for second class --> A
+Enter number of credit hours for second class --> 4
+
+B   3
+A   4
+Your GPA = 3.57143
+Congratulations, doing good!
+
+
+This program will calculate your GPA based on the grades from two classes.
+
+Enter letter grade for first class --> D
+Enter number of credit hours for first class --> 3
+
+Enter letter grade for second class --> C
+Enter number of credit hours for second class --> 3
+
+D   3
+C   3
+Your GPA = 1.5
+You are doing poorly!
+
+*/

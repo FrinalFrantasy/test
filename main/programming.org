@@ -1,0 +1,121 @@
+* career stuff
+** [[https://www.reddit.com/r/LifeProTips/comments/7sgpyf/lpt_college_isnt_the_only_way_to_start_a_good/dt4w6e7/][this whole thread]]
+
+> IT certifications. Speaking on the fields I know well (networking, backups & DR, security, network design and management), there are a TON of great IT certifications that can be had to demonstrate aptitude with no formal education at all. Learn how a computer works, and go for your A+. Learn how computers talk to each other, and go for your Network+. Learn how Windows Servers, data center virtualization and backup products work, and go for those certifications as well. Actively lobby your local MSP's (Managed Service Providers), businesses and organizations for the chance to intern with them.
+
+As a young man, I never learned well in a classroom setting but was very good at teaching new skills to myself. I went from a PC repair technician in the late 90's/early 2000's to a Technology Director at a well-respected MSP in a midsize US city today, and I do very well for myself. I dropped out of community college at age 20 and never went back.
+
+There are many industries that you just can't break into without a college degree. There are a lot of companies - across ALL industries - that won't even interview you without a college degree... but there are just as many that WILL. As someone who sits at the other side of that table now, conducting many interviews of my own, I can tell you that MANY employers are looking for skills that often aren't taught in college. Interpersonal skills, professionalism, work ethic, the ABILITY to learn and more. Spend a bit of time in retail (it sucks, I know) and gain comfort in talking with difficult people from all walks of life. Tighten your wardrobe and appearance up as much as your budget will allow. These things will serve you well in your future interviews.
+
+If your industry has "backroads" to allow you to break in, find them and travel them. The cost/benefit analysis (in both time and money) can often blow college out of the water. Think of creative ways to get your foot in the door, work your ass off and show what you're capable of. It can pay huge dividends... I speak from experience.
+
+> If youre talking about just IT - your degree doesnt matter. At all. Im not saying dont put it on your resume but no IT hiring manager or director worth anything will toss you out because your degree is unrelated. Certification wise - I wouldnt even bother til youre a few years in or theres something you love, without experience to back them up they dont help nearly as much as you think. Certs arent really at thing in software development. For just learning, Pluralsight and Cloud Guru are my current favorites.
+
+Things Id wished Id learned before starting - project management and task prioritizing, how tech intersects with business (you can get light years ahead of people the sooner you get your head around this) and selling myself better. Technical stuff - basic networking, programming.
+
+Dont get hung up on technical skills from the get go, put what you can do and where youve been on paper and be honest about where you want to go.
+
+* ChromeOS
+** How to Get Android Apps to See External Storage on Chromebooks
+
+https://www.howtogeek.com/316056/how-to-get-android-apps-to-see-external-storage-on-chromebooks/
+
+* chatbots
+
+https://chatbotsmagazine.com/how-to-develop-a-chatbot-from-scratch-62bed1adab8c
+https://hackernoon.com/i-built-a-chatbot-in-2-hours-and-this-is-what-i-learned-f5dbb4ba5fcc
+https://apps.worldwritable.com/tutorials/chatbot/
+https://moz.com/blog/chat-bot
+
+* complete CS self-taught course
+
+https://teachyourselfcs.com/
+
+* data visualization
+
+https://blog.capterra.com/free-and-open-source-data-visualization-tools/
+
+* security
+** my take on password managers
+
+LastPass has had a number of security breaches, including at least one that may have allowed member passwords to be accessed by hackers.
+
+In principle, I don't like services like LastPass, because they require you to put your trust in a private organization, which you can't guarantee won't suddenly disappear, turn evil, or be manipulated by more powerful forces. Instead, I recommend KeePass2. It's a little more complicated, but it runs on your machine, is open source, and has (as far as I know) pretty much all the features you'd want in a password manager.
+
+KeePass2 is not online in itself, but you can easily synchonize a database to all your devices using DropBox or Google Drive. I've set this up for several people who've asked me for help, and it seems to have worked quite well for them.
+
+(Strictly speaking, it would be safer to never put the file online at all, but for me, this is where the point of diminishing returns kicks in re: security/convenience. I can go into more detail if you like.)
+
+Additional information regarding KP2:
+- Access can be limited to a password, a particular file, a particular Windows account, or any combination.
+- Being open source means that anyone can examine the source code to check for exploits or problems. While I am not capable of understanding the source code myself, I believe that in this context it is much safer to trust the community at large than it is to trust any private organization.
+- KP2 archives can include pictures and other files, as well as text.
+- On Windows, Linux, and Android (don't know about others), KP2 supports auto-typing passwords, which prevents detection both by keyloggers and by programs that track clipboard contents. They will also auto-clear your clipboard, prevent the system from taking screenshots, all that sort of stuff.
+
+...
+
+If you (or anyone reading this) is not using a password manager and would like to, this is my recommendation:
+
+1) Install KeePass2 on all your devices.
+
+2) Open a dicewords list, such as http://world.std.com/~reinhold/dicewarewordlist.pdf
+
+3) Roll a physical, 6-sided die 5 times, and use those numbers to choose a word from the dicewords list. Repeat this until you have enough words to total at least 16 characters, including any punctuation you feel like adding.
+
+4) Memorize those words, and use them as the password to create your KP2 database.
+
+5) (OPTIONAL) Backup your KP2 password either by entering it into the secure password database of someone else whom you trust, or by writing it inconspicuously somewhere that's as safe as possible.
+
+6) Go through every single online account you can remember, and enter them into your KP2 database. For EVERY SINGLE ACCOUNT, use KP2 to generate a new password of at least 16 characters.
+
+7) Do the same with any new accounts you make, or any other accounts you remember.
+
+8) When it comes to password security questions (like mother's maiden name, first pet, etc.), either put in random answers that you also put in a password manager, or make up something false and non-obvious that you'll be able to remember. Under no circumstances should you give regular, honest answers.
+
+9) (OPTIONAL) Synchronize your KP2 database using Google Drive, DropBox, or a similar service.
+
+10) Enable 2-factor-authorization on every account that supports it, especially your primary email and any account that has access to your money.
+
+11) Immediately change any of your passwords if it appears in any email, text message, or image, or gets printed, or gets written down on anything that you do not have physical control of.
+
+12) If the password to your KP2 ever becomes compromised, IMMEDIATELY repeat the entire process.
+
+This whole process can reasonably be done in a few hours and will be an orders-of-magnitude improvement over the average person's digital security.
+
+If you're dealing with state secrets or are just extra-paranoid, skip the optional steps, and lock the database with not only a password, but a secret file, which only exists in a USB you keep with you at all times, and one other USB hidden somewhere. Also, encrypt the secret files themselves, using a different 16-character phrase made from dicewords.
+
+* The Odin Project
+** CURRENT
+
+https://www.theodinproject.com/courses/web-development-101/lessons/join-the-odin-community?ref=lnav
+
+** links
+
+[[https://forum.theodinproject.com/][forums]]
+[[https://gitter.im/TheOdinProject/home][gitter chat - Odin rooms]]
+[[https://gitter.im/TheOdinProject/theodinproject][gitter chat - Odin general chat room]]
+
+chat commands
+/giphy hi
+/help
+
+** further reading
+
+[[https://www.coursera.org/learn/learning-how-to-learn][coursera "Learning How to Learn"]]
+
+* website design
+
+http://motherfuckingwebsite.com
+http://bettermotherfuckingwebsite.com
+https://bestmotherfucking.website
+https://thebestmotherfucking.website
+http://contrastrebellion.com
+
+* scratch - learning
+
+https://www.reddit.com/r/learnprogramming/comments/7qpbgp/i_can_not_recommend_freecodecamp_more_how_the/
+https://www.reddit.com/r/learnprogramming/comments/7zj64e/40_programming_pdfs/
+https://www.reddit.com/r/learnprogramming/comments/7zstc2/i_have_been_drawing_comics_that_explain_basic/
+https://www.reddit.com/r/learnprogramming/comments/81nhyz/is_there_a_website_that_lets_you_practice_python/
+https://www.reddit.com/r/learnprogramming/comments/825wqm/as_a_programmer_i_feel_ignorant_on_how_coding_and/
+

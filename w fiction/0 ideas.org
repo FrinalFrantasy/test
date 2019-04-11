@@ -1,0 +1,175 @@
+* grand riddle
+
+A selected team tries to solve an ancient series of riddles leading (presumably) to the Holy Grail or similar. They are in the future. A reflection on not doing the riddles "properly", as they solve them not with ingenuity and intuition, but with a database and powerful fuzzy logic search engine. As time goes on, they marvel at the genius of the individual(s) who constructed the puzzles, question the purpose of hiding a valuable artifact behind riddles (is it supposed to gate vs intelligence? wisdom? worthiness?), and even question whether the creators were human.
+
+One of the band of searchers is the champion or leader of a group of people who recreationally solve puzzles "manually" or "analog", that is, using only their brains. There is an aside about using brain-modification technology to force algorithm-less solving of Rubik's Cubes, or similar, and the difficulties inherent in that approach.
+
+* "All the Way Down"; short story about nested dreams / vrs
+
+A person relates how they realized they were in a dream or VR, a not very convincing one. But then they later realized that the much more realistic reality they awoke to was, itself, also fake. Having awoken into the third reality, they had a lingering fear, a suspicion that there were four layers total (three deceptions), and by searching carefully, they found out that this was true, and with great effort, emerged into the "real" world, that is, the one in which they and the people they were speaking to currently resided.
+
+The implication until now is that there is a neatness to the three illusions, the four realities, which imply that they're all it is. But the narrator reveals that after many years, decades probably, in this final "real" world, they noticed the subtlest of signs that it, too, was fake. There is also some minor detail, maybe a correction to a previous datum, that the symmetry of the three illusions was false, and really it follows that there are infinite (or at least very many) layers of illusion. It is illusion "all the way down".
+
+The final implication - not spoken or even hinted allowed by the narrator, but rather implied by some action he is performing or some detail of the background - is that the speaker has accepted that his current reality is false, or is at least not the "bottom", but has decided to stay anyway, as he is psychically tired of digging deeper and deeper, learning new worlds and new lives. Could be some physical act in which with each repition you gain a percentage of the remaining fruit, but never all of it; or perhaps something like hiking, where there is always more to explore.
+
+May also bring in Zeno's paradox of movement, i.e. the need to move infinite halfways.
+
+* computer game: Save the Queen
+
+Basic character supertypes:
+- Hero (melee and troop morale)
+- Assassin (melee)
+- Archer (ranged)
+- Builder (makes/repairs/uses walls/turrets)
+- Commander (commands troops)
+- Healer
+
+PC stats
+- 4 health
+4 = healthy, 3 = light wound, 2 = heavy wound, 1 = impaired/incapacitated, 0 = dead
+- 4 stamina
+Recharges steadily. Most actions consume 1 stamina, and cannot be performed without 1 stamina. Sprinting stops stamina regeneration.
+
+NPC stats
+- 3 health
+3 = healthy, 2 = wounded, 1 = impaired/incapacitated, 0 = dead
+- 3 stamina
+- 3 bravery
+3 = never panic, 2 = panic vs great foe, 1 = panic vs non-easy foe, 0 = perma-panic
+Auto-regenerates to 2. Taking any damage depletes 1.
+
+- 0 damage: CC
+- 1 damage: most attacks
+- 2 damage: heavy attacks
+- 3 damage: extreme attacks
+- 4+ damage: catastrophic attacks
+
+Unit building?
+Assassination?
+
+Spear = melee attack, ranged throw (1 and 3 damage)
+Polearm/greataxe = 2-handed, melee attack
+Sword = melee attack; difference from spear?
+Knife = quick melee attack, ranged throw
+Shield = passive block; active platform, or super block; maybe bash
+Hammer = build/repair, melee attack
+Bandage = heal other, heal self (slow)
+Bow = arrowz
+Torch = start fires, flaming arrows?
+Banner = +1 morale aura, melee attack
+Powderkeg = bomb, flammable trails
+Drum = relay directional orders
+punch = half damage?
+
+Melee weapons
+- spear (throwable)
+- knife (fast; short range; throwable)
+- sword (spin attack or parry)
+- shield (passive block? platform? super block? shield bash?)
+- hammer (build/repair, melee attack)
+- polearm/greataxe (2-handed, large arc)
+- 
+
+attack, retreat, hold position, archers fire, archers stop, rally at banners (last one not necessary?)
+
+Health regenerates steadily, slowly, up to 2 or 3
+If you're incapacitated you can't move until your health regenerates or you get healed.
+
+Bloodlust - never panic, but ignore orders; only attack enemy
+
+Hits to bravery:
+taking damage
+fear effect / aura from certain enemies
+fire
+PC dies
+
+Buffs to bravery:
+Banner-carrying PC
+Enemy champion dies
+killing an enemy personally
+being healed
+
+SIMPLE CONTROLS
+WASD - movement
+mouse - aiming
+mouse 1 - use active item
+mouse 2 - drop/throw active item
+scroll - switch active item
+space - dodge, run
+"using" an empty slot will do a punch/kick/knife attack
+
+ADVANCED CONTROLS
+WASD - movement
+mouse - aiming
+mouse 1 - use item 1
+mouse 2 - use item 2
+Q/E - drop/throw items 1/2
+space - jump
+shift - roll
+"using" an empty slot will do a punch
+
+
+Minion types:
+basic - 3-stat, 1-item; can be spearmen, archers, builders, or healers
+
+Enemy types:
+basic - 3-stat, 1-item; goblins or whatever
+scary - fear aura or fear effect
+poison - halts or reverses healing
+siege - strong vs walls, arrows; weak vs explosives, fire
+
+* small ideas
+
+- purgatory where everyone relives the entire universe over and over
+
+- Drunkenness... a man who becomes drunk because of a need or desire for physical contact and support. When he's drunk, he has a friend, or friends, good enough to physically support him and help him walk, help him get to his car or bed, whatever. The man does not have a SO, does not work in a physical job. It's not 
+
+- Advanced tech makes everything better, but possibly less human. Removing pain, death, boredom, ignorance, possibly individuality, etc. The final hold-out avoids many advancements or still feels uneasy despite them. The last tech he uses is one that makes him okay with tech, and it works, and the final sentence is something like "And he was okay with it" or "And he felt truly good about it." or something. "And his worries were gone."
+
+- Similar: a man reflects that some people are given false memories (or false motivations), and he is happy that his aren't fake. He reflects also that at first, the program had trouble where people learned about how it worked, and started to doubt their own memories/motivations/urges, until they found a way to remove that doubt, and in fact remove the doubt even in the face of complete hypocrisy. He feels sorry for his compatriates, who have had this done to them, when he "knows" very well that his memory and motivations are completely real, while he also knows that he has no more evidence than they do, and yet he is completely free of doubt. Maybe a series of stories about mind alteration?
+
+* fair punishment
+
+A murder sentence is imprisonment equal to your current life span. E.g., if you kill someone when you're 20, you'll be getting out at 40. The theory behind this is that it takes fully as long for the damaged soul to heal as it did for it to reach its damaged state.
+
+* to the young man who thinks he's a hotshot
+
+"You've read these things, these little tidbits about how to break a man's neck, how to detect poison in your drink, how to make a pipe bomb, how to palm a do in, how to tell if someone's lying... In your mind you're acquiring am interconnected web of invaluable skills, the sorts of things a master spy or provocateur or at least storyteller knows... How to bargain, how to ask for the best mixed drink, how to live off the land, how to fix a car. Really what you're doing is collecting the idea of each of these things, obsessing over them, keepsakes, like in a grandmother's pantry. But you understand or excel at nine of them above the level acquired by reading a single book. Breadth, not depth..."
+
+* scp uncleanupable untrashable permanent mess, subtle
+* game where you make certain decisions for the protag, turns out you're possessing them
+* interesting superpowers/afflictions
+Insert time anywhere (pocket dimension?), but it's taken out of your total lifespan.
+
+Multiply all attributes by X, including strength, speed... and rate of lifespan consumption.
+
+When you kill someone, you experience their entire life. Or become them? /their brain...
+* church bulletin digitizers
+story about church bulletin follow-along-ers, getting burnt out... Not quite enough tech/money to adequately automate, combined with a churchly disdain for robots... "we don't have robots preach, we don't have them play organ (If we can avoid it), I don't see why it should n't be the case with this (admittedly new) job...
+* loved by two
+Story about a woman loved by two men, abused by a third. She ends up with the right guy, one of the first two. In the end, it is revealed that the other of the two killed the third.
+* The Man Who Would Not Be King
+Basil / Leroy
+Kround
+* larger than life...
+Being "larger" or "realer" in person; to fantasize about someone or imagine them... but in real life, their body is more actual, more real, "bigger" than in imagination.
+* seventh child prophecy
+Seventh child, or seventh child of seventh child, or even seven times,
+Seventh child of seventh child of seventh child of seventh child of seventh child of seventh child of seventh child.
+Bad guy gets it wrong because he's only counting sons. Even so, miscounts once, lands on son; fails to take into account a child unborn. The real seventh child is a daughter.
+* meta thought errors
+Story about a man who finds out that he tends to have errors in his own thoughts at semi-regular intervals.
+* negative space
+Negative space stories. The stories inbetween stories.
+
+Possible candidates currently include:
+
+The couple that falls in love via group phonecalls, etc. (Dyansties / Thesei)
+
+The Woman with three lovers (the middlest of whom kills the worst, but quietly, and he doesn't end up with her)
+* nosleep stories
++ Talks about someone who can't lie, or can't not be believed, or who is always obeyed.
++ Plot is that antagonist is this person.
++ Reveal is that protagonist is this person.
++ Only makes sense if you reinterpret earlier stuff.
++ "I know I'm still alive."

@@ -1,0 +1,12 @@
+* :
+- always follows an independent clause
+- REQUIRED: to elaborate on the object of the preceeding sentence
+- OPTIONAL: to introduce a quote (instead of a comma)
+- if used to introduce a complete sentence, it is optional to capitalize the first word of that sentence (but be consistent)
+
+* ;
+- REQUIRED: to separate list entries which contain commas
+- OPTIONAL: to join two independent clauses, for emphasis or style
+
+* em-dash
+- OPTIONAL: in place of comma, semicolon, or parentheses - in all cases, less formal and more emphatic

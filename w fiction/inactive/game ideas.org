@@ -1,0 +1,762 @@
+* sinking ship
+
+Single life (or... lineage? Vengeance?)
+-non arbitrary ending
+Soft time limit
+Many decisions
+Light bluffing, skill, traps
+Multiple valid strategies
+Secret and public class options
+Rewarding cooperation
+Separate verb and wincon
+Non killing (except at end?
+Non-martial setting?
+Guaranteed (not necessarily frequent or regular) respites
+The ability to meaningfully change the landscape, distinctively and/or constructively
+Not sure about NPCs
+Not exclusively interplayer interaction, but don't let there be a lack
+Player-chosen wincons < randomly assigned wincons < disparate wincons, musical chairs (not enough for everyone)
+
+What is an understandable (but not necessarily realistic) physical competition that's neither martial not sport?
+
+Sinking ship
+Demolished building
+
+* sinking ship 2 / escape the blank
+
+Escape the ...
+
+Real-time, though might work as a board game as well. Screen-based, letting you see only the room you're currently in.
+
+Everyone starts on sinking ship (or burning building, or collapsing mountain, etc). The ship will sink in (say) 20 minutes, and you win if you get off alive. There are a few different ways to do this: get rescued by a helicopter, get rescued by a boat, use a lifeboat, etc. But there are a limited number of "slots" available for players to survive. Specifically, up to half (rounded up) of the players can survive. Everyone else is going down with the ship. The number of available slots to live is randomly divided between the 4ish different survival methods.
+
+The ship's layout is randomly generated from a few large rooms. Everyone gets a map of the ship, so you won't start having no clue where, say, the engine room is. Also, every player starts in the same room: the cabins. Every player also starts with the same initial capabilities, and no items.
+
+Each player can hold up to one item in their pocket (invisible to other players) and one item in their hands (visible to other players in the same room).
+
+Regular blocked doors can only be opened by two players working together (or one with an axe). In this and other ways, the game encourages working together, because if you don't, two other people will work together and get ahead. However, you may have to betray your friend, if it turns out there's only one seat on the rescue boat.
+
+It is possible to kill another player, but not advisable: if you do, they immediately respawn as the kin of the deceased player. This kin spawns with a revolver and modified win conditions: they win only if they not only escape, but also take revenge on the killer (not sure if successful revenges should lead to ever more wrathful kin, avenging each other).
+
+Players will occasionally be given the choice to do something which benefits them but hurts everyone else. For instance, they use an explosive to get through a door, so they can get into the room they want. But in so doing, the blast a hole in the ship that reduces the time-to-sink by 2 minutes or so.
+
++ Ideas for items:
+++ fire axe: melee weapon, and can break through doors
+++ flare gun: can summon helicopter, might function as a weapon
+++ revolver: the best weapon
+++ radio components
+++ key(s)
+++ disguise / identification
+++ fire-making tools
+++ timed explosive
+
++ Ideas for survival methods:
+++ Helicopter. The helicopter has room for either 1 or 2. It can be summoned by the flare gun, and possibly by a large enough fire.
+++ Friendly boat(s). Can be summoned by repairing and operating the radio.
+++ Onboard life boats. Have to be repaired, or broken out of boxes, or just gotten to
+++ False papers / disguise / whatever. Lets you escape using the VIP pod, or maybe a VIP rescue boat.
+
+* Monolane
+
+RTS / tower-defense / twinstick shooter / combo-and-parry-based-brawler, or any combination thereof
+
+* single screen repair-based game
+
+water output, input (or circular pump system?)
+    high-pressure pipes
+    used as coolant; moves past equipment
+flammable gas output, input
+    low-pressure vents
+    bi-product; moves away from equipment
+electricity output, input
+    volatile wires
+    power; moves to equipment
+workers
+    carry raw materials to machine
+    carry widgets away from machine
+
+water output, input (high-pressure pipes)
+flammable gas output, input (low-pressure vents)
+
+
+Game - single screen, many rooms. Little workers and machines. Things go wrong. Water leaks. Flammable burn. Round things roll. Maybe critters escape. Flammable gas? You have to fix stuff. Downfall falling stuff. Rhythm. Spelunking planning. Start with shit graphics. Repair button, but also manually rewire, manually plug leaks. Not just one repair button forever. Pick up and drop would be essential. Little to no violent verbs available to player. Let's just say none. No fighting. 
+
+* Mnemonomic
+
+(Kind of old).
+
+NOTE THE FOLLOWING GAMES:
+[[http://aurorawiki.pentarch.org/index.php?title=Main_Page][Aurora]]
+[[http://www.bay12games.com/dwarves/][Dwarf Fortress]]
+[[http://www.ultimaratioregum.co.uk/game/][Ultima Ratio Regum]]
+
+Thematic inspirations:
+Martin Gardner
+SCP Foundation
+
+Gameplay inspirations:
+Spelunky
+FTL
+The Binding of Isaac
+...NetHack?
+...Frozen Synapse?
+
+
+Memetic Warriors
+Memetic Men
+Memetic, Mnemonic, Nomic
+mem mnem nom Nomemnem
+Mnometic
+Mnemenomic!
+Mnenometic
+Mnemonemic
+Memnemnomic
+Mememnomic
+Memnomic
+Nomnemetic
+
+-One guy starts gaining power, but eventually will go rogue and kill you.
+-Everyone remembers things differently. The overlap in their memories is what's correct.
+-Basic insanity.
+-Hallucinations.
+-Maybe two guys carry gun, two guys carry ammo? Something like that.
+-Your guy can be possessed, or become an ear for the enemy; they know what he knows. Best not to let him know much. Very best to do this without him knowing you're doing this.
+-Siren song - earplugs?
+-Fear
+
+
+Probably can't do real-time; probably better to do simultaneous turns.
+All actions can be performed one of three ways: Normally, Covertly, Aggressively
+Not only can you perform any action in any way, but also...
+...anyone else can perform any action in any way
+...you can ask, tell, or command anyone else to perform any action in any way (and you can tell them Normall, Covertly, or Aggressively)
+...you hint, tell, or warn someone that you are going to perform a certain action.
+...You can also hint, tell, or warn someone something about someone else. E.g.,
+...You can hint to Sally that Jack stole the gun from Matthew.
+ALSO, you can use a time-modifier. So...
+...You can WARN Sally that Jack WILL steal her knife.
+...You can TELL Jack that, when you get more than one bottle of water, you will give him one bottle of water. AYE?
+Predictions and information etc. have a huge effect on X's trust of you when the discover that you were lying/telling the truth.
+
+INTUITIVE characters are more likely to believe suggestions, and doubt warnings; LOGICAL, PATIENT characters are the opposite.
+
+If you give a character information, a number of factors determine to what extent they believe you. They may...
+-Believe you unquestioningly
+-Believe you, but try to confirm
+-Be unsure, try to investigate on their own
+-Be unsure, do nothing
+-Not care
+-Think you are lying, do any of the above
+-Think you are lying, assume the opposite is true
+
+If you tell a character to do something, they may...
+-Do it
+-Refuse
+-Ask another character's advice
+-Think about it first (SYSTEM TO DICTATE THIS?)
+
+You can ask any character about any event, or about any other character. You can ask A's thoughts about B's opinion about C.
+Such questions TAKE TIME, otherwise you'll just spend the whole game gathering information.
+
+When you have a gun, you can point it at someone. Before or after pointing it at someone, you can
+...fire, aiming to miss (frighten)
+...fire, aiming to maim
+...fire, aiming to kil
+
+You can give items in the following way: offer, give, thrust
+Or take: covertly, normally, aggressively
+Or tell them to give the item to you.
+So you could DEMAND that they GIVE you a gun, or you could ASK them to OFFER you a gun, etc.
+Perhaps you could ask them to do this... in the future? Or if a certain state occurs?
+If Jacob goes crazy, then do this. Etc.
+
+Yes, you can tell A to tell B to tell C to tell D to tell ... etc.
+
+
+PASSIVE CHARACTER TRAITS:
+Perception (clarity, etc)
+Emotional intelligence
+Patience
+Strength
+Confidence (in self)
+
+ACTIVE CHARACTER TRAITS:
+Health
+Energy/stamina
+Mood
+
+CHARACTER-CHARACTER TRAITS:
+Affection / hatred
+Trust / distrust
+Fear?
+
+PERSONALITY TYPES:
+Optimistic (high confidence, high patience, good stamina, very good mood, high affection and trust, low fear)
+Pessimistic (high perception, opposite of above)
+Logical (high perception, low emotional intelligence, tries to base trust on others' perception, not only low affection but low effect of affection, may not know how to deal with fear)
+Emotional (opposite of above)
+
+SOME COMBINATIONS?
+If X has high affection and low trust for Y, X may try to protect Y, even against Y's wishes.
+If X has high trust for Y, may trust Y's perception over own.
+If X has low affection but high trust for Y, may not save Y (unless very logical), but my follow Y's instructions, or consider Y's information more accurate.
+
+If a character presents information, the other characters accept it based on...
+...their trust of that character...
+...their trust of the other characters multiplied by those other characters' reactions to the first character.
+
+If a character thinks or knows they are being lied to, they may try to investigate to find out exactly what parts of the information are false, and/or why the false information was given.
+
+What can I do if an NPC asks the PC a question? "Why did you tell me Jack wanted my knife?"
+E.g.,
+PC [WARN] [SALLY] [NOW] [JACK] [WANTS] [SALLY'S] [KNIFE]
+wants, doesn't want, thinks, suspects, knows...
+Disconnect here; WANTS KNIFE? or WANTS TAKE KNIFE? or WANTS ASK FOR KNIFE?
+
+There should be a WHY and a BECAUSE.
+
+If A tells B something about C, the factors of both trusts and affections and fear, etc, will all come into play, and B may ask C about it, in varying terms.
+Might outright say, "A told me this." Or suggest, "A might have told me this."
+Might shyly say, "Did you do this?" or demand, "Did you do this?"
+C could ask or demand, "Did [someone, anyone] tell you this?" or "Who told you this?" etc.
+
+Chars can ask, "Do you fear A? Do you NOT FEAR A? Do you AFFECTION A? Etc."
+
+
+AFFECTION from A to B causes A to want to be with B, or for A to want to preserve B's life and wishes.
+TRUST from A to B causes A to accept B's information and orders, and be less afraid when B is the one protecting them
+
+
+PASSIVE or UNFULFILLED orders/suggestions/requests from A to B remain visible in B's datasheet to A; can be cancelled, for some or no reason.
+
+You can say that you are sorry for shit.
+You can also say that you're sorry that X's intelligence is low. burrrrrn
+
+You can say that something WILL happen, MIGHT happen, OUGHT to happen, or NOT any of those. Or that a particular character WANTS it to happen.
+
+
+Characters get one ACTION point and one SPEAKING point per turn.
+Can speak TO a particular character, can whisper or speak or shout, but other characters have potential to hear.
+
+You can push characters out of the way of things, and in turn get the bullet/whatever they were about to get. Depending. Always depending...
+
+
+If A saves B's life,
+B gets permaboost to affection for A
+B gets tempboost to trust for A
+A gets tempboost to affection for B
+A gets temp or perma buff to trust to B
+
+
+There are levels of certainty, which can be asked about, informed, or be the basis of commands. E.g.,
+You could command A to MAIM B if B tries to KILL C, but...
+...you can tell A to only do so if they THINK B is trying to do that, are PRETTY SURE, or are POSITIVE.
+
+
+MEMORY
+All characters record all memories, all things they have experienced, to varying degrees of accuracy.
+Accuracy degrades over time. Depending on personality, certainty may not.
+When they become uncertain, they may ask other characters about what happened.
+
+
+
+GEAR FOR FOUR PEOPLE?
+Rations for four
+One gun, maybe two to seven clips total
+One to four knives
+Two to four flashlights
+One or two medical kits
+Maybe a map, compass, or GPS
+
+EXPLICIT WORLD-LAWS:
+Illusions get more difficult to maintain the closer they get to 100%. Mental illusions, that is. Can't quite reach 100%.
+
+
+Each character has two hands, twoish pockets, and can have a satchel of some kind. Items can be...
+Very large (two-hand hold only)
+Long (one-hand hold only)
+Large (backpack or two hand only)
+Medium (backpack or one hand only)
+Small (one hand, pocket, or backpack only)
+Tiny (little to no restriction; fit many in pocket; might be hard to find in backpack though)
+
+Long and Large probably have same WEIGHT.
+
+
+
+
+
+
+
+
+
+
+
+Support for repeating question, noting similarities and differences, not wanting to be tricked into changing answers, becoming interested in certain things.
+Another trait: INTEREST, meaning, wanting to gain new information about, or confirm old information about, a think, person, activity, etc.
+
+Positive reinforcement: whenever a person is made happy, their PR score for all of the associated things goes up minutely. E.g., they ask you a question, they get an answer they like, they get PR for you, asking questions, and the subject(s) of the discussion(s), as well as perhaps the place it all took place in, or the time of day, or whatever.
+
+Charisma inspires trust, charm inspires affection; but there are people who mistrust charisma or are put off by charm.
+
+NOTE... learn a little bit about human memory, so I can better simulate it.
+
+
+
+a NPC being asked a question, might hit a certain level of resistance, as calculated... being asked the same question multiple times, especially by the same person, might increase or decrease that resistance. Also, they might ask, "Why are you asking that? You already know." on the basis of 1. comparing the new instance of the question to recent events, finding that it matches the previous instance of the same question, and 2. by imagining themselves in the PC's shoes, and knowing that the PC knows everything that the NPC has witnessed the PC finding out, including the answer to the questoin, or 2a. simply cataloging, in their info on the PC, everything that they know the PC knows, and how the PC knows it
+
+NPCs can make assumptions about each other (and PC) by picturing what they would do... more intelligent find ways of incorporating known aspects of target's personality.
+* Save the Queen
+Multiplayer co-op only PC game. Randomly generated castle / tower / hill / whatever. The goal is to protect someone or something from attackers. The attackers are also partially randomly generated.
+
+Aside from the PCs, there are friendly NPCs who do the same sorts of things the PCs do, just not nearly as effectively. PCs take it upon themselves to perform one or more functions:
+
++ melee fighter
++ ranged fighter / sniper
++ commander (command NPCs like an RTS)
++ healer (heal NPCs, PCs, or the Queen)
++ repairer (repair tower or automated defenses, or create more of them)
++ etc
+
+Don't want to focus on skill trees or character classes, but let most of the above derive from the items carried. For instance, the game starts and you want to be a healer. You have, say, 4 item slots, and there are 3-5 total healing items. So if you get maybe 3 healing items and 1 ranged combat item, you are by definition now a healer. If, later, you chuck some of the stuff and grab other stuff, you've effectively changed your role.
+
+It's possible to play with any combination of roles. If everyone goes melee and ranged, then the tower may crumble, but you may hold off the enemy as an elite commando force. If everyone goes commander/repairer, then the game becomes a sort of RTS/TD hybrid. Etc.
+
+Have the enemy come in waves, so that you have a little respite inbetween them. During respite, the job of the support classes will be obvious; for someone like the melee fighter, they might have nothing to do, or they might be able to go kill some creeps for extra goodies, or just lend their muscle to the rebuilding projects. That last one's probable best; the dynamic could be: no matter how much of a support class you are, you'll probably have to get your hands dirty at some point; and no matter how much of a fighter you are, you'll probably be asked to rebuild a wall at some point.
+* Somno
+(Still old formatting.)
+
+Edbe Razel
+Maurits Kround
+Rulphos Kern
+Thrike
+
+
+Progressive Technology Engine		PTE
+Progressive Engine of Technology	PET
+Cumulative Technology Engine		CTE
+CUmulative Technology Engine		CUTE
+CUmulative TEchnology Engine		CUTE Engine
+PROgressive Technology ENgine		PRO-TEN
+
+This bioscan door no longer recognizes you as human.
+
+AGE:
+2.8*10^1
+3.1*10^2
+1.2*10^3
+4.2*10^4
+1.3*10^5
+5.2*10^6
+9.0*10^7
+2.7*10^8
+6.4*10^9
+6.4*10^10
+
+2.0*10^1
+4.0*10^1
+6.0*10^1
+8.0*10^1
+
+"Ten thousand trillion"
+10,000,000,000,000,000
+
+1.0*10^(10^1)
+
+
+
+
+After drifting for 3.9*10^33 years, your body collides with an asteroid with a mass of 9.9*10^1kg.
+2.0*10^14 years later, it falls into a black hole.
+PLAY HIGHLIGHT REEL?
+
+
+
+
+The ship is a generation ship. 1k-1m residents, probably.
+Spelunkyish model of size. No, bigger total area, but the vital stuff is close enough to be fairly reliable visitable in a single level.
+Ship rearranges itself during intervening years. To better solve problems?
+OR, you're visiting different terminals of the technology engine, and I just have to figure out why the cryostasis...
+GOT IT. The ship cycles and shunts your coffin around. It's not supposed to, maybe, but there are a lot of coffins, and a lot of years...
+So the ship itself is enormous. The boundary boxes to an individual level are space, and inaccessible but semi-visible areas, where there's no power or anything. Helps for sense of scale.
+
+CONTROLS
+WASD for movement/indicating direction
+Space for kicking/jumping
+Make three action buttons total:
+1: Catch/Release/Throw held object
+2: Activate held object
+3: Move item to storage/retrieve item from storage
+
+That's good. That way you can also hold two items, at the expense of them having no free hands.
+And it means you can't hit buttons etc. with something in your hands.
+
+Traveling rod is not necessary.
+
+We're making this a simple game. No analog.
+Though analog would allow me to spin the screen...
+
+GOAL
+To survive indefinitely?
+To reach a new home?
+
+WINCONS/ENDSTATES
+
+TECHNOLOGY ENGINE OPTIONS
+Math
+	Long-con. Time-travel?
+Warfare
+	Fusion pistol, bioweapon, existence eraser,
+Communication/sensors
+
+
+
+EQUIPMENT (EQUIPPABLE)
+Jet-pack
+Grappling hook
+Magnetic boots
+
+EQUIPMENT (HOLDABLE)
+Fire extinguisher
+Gun (pistol?)
+Staff
+Sticky grenade
+
+CHARACTER ATTRIBUTES
+Objective age (level)
+Oxygen
+Health?
+
+CHARACTER MODS
+
+RACES
+Humans are only represented as individuals, who may become various things. Basically the same things the player can become.
+
+Rats			start on ship; caged
+Plants			start on ship; uncaged but relatively slow
+Robots			start on ship; deactivated? unbuilt?
+Aliens			can be drawn to ship; not initially present
+Virus			ingredients on ship; or single vial; not initially formed
+
+Rats			intelligent rats
+Plants			plants everywhere
+Robots			hive-mind calculator
+Aliens			memetic aliens
+Virus			malignant slime
+
+Human-Plant		consumed humans (talking plants?)
+Human-Robot		cyborgs; ruthless
+Human-Alien		duality hybrids; of two minds
+Human-Virus		death, or, mutant human; implacable
+
+Rat-Plant		consumed rats
+Rat-Robot		ratborgs
+Rat-Alien		big tails
+Rat-Virus		death, or, mutant rats; ROUSs
+
+Plant-Robots	electric plants (eh)
+Plant-Aliens	(eh)
+Plant-Virus		dead plants, or very tough plants
+
+Robot-Aliens	simplistic god-machine
+Robot-Virus		nothing (well, "infected" robots, at most)
+
+Aliens-Virus	ohhh shit
+
+
+OK. So.
+Aliens: Not initially present on ship. Can be called by leaving some sort of communicator / comsat / radar equipment on. When they arrive, may have plans very different from yours. Unsure of exact progression.
+
+Rats: Initially present on ship, in complex but enclosed colony. Colony is large enough that it may impede progress to other parts of the ship. Can be broken apart. As long as two living rats are outside of the cage, the colony can survive and progress. Rats become more and more intelligent, but do not on their own do anything super-weird, except maybe become telepathic/telekinetic.
+
+Plants: Initially present on ship. Slowly grow and creep around. Left to themselves, will simply fill areas and clog systems.
+
+Robots: Initially present on ship, but deactivated or incomplete. Can be activated in the form of one large and powerful and obedient robot. Robot multiplies, over generations, into smaller, more technical, more clever, and eventually more malignant robots. Great asset as first, but difficult to switch off (maybe need EMP?), and will eventually overwhelm you and the ship and turn everything into a calculator or something.
+
+Virus: Initially present on ship as a single cell in a glass jar. Can be ignored. Can be utterly eradicated by ejecting jar into space or burning it (and maybe also by smashing it in a hermetically sealed room). If not: when broken, will attack nearest biological entity, destroying it, and probably its whole race. Thenceforth, the virus will survive, but in a permanently weakened/modified state; the next biological category it attacks will not receive only negative effects. As the virus progresses, the effects of contracting it become progressively potentially good. A viable strategy is to sacrifice other creatures/races to advance the virus to use it on yourself. Another viable strategy is to carefully preserve the virus until you get to a boss.
+
+
+
+
+ROOMS
+The Progressive Technology Engine terminal room
+Hermetically super-sealed hypersleep room OR cryosleep pods get knocked and shunted around...
+Cleansing room, button on outside, locks doors and burns everything away inside, vacuums suck up ash. Programmed not to activate if there's any living human DNA within.
+
+STAGES
+Early stages: box spaceship. Maybe enemy/ally humans. Rudimentary robots. Things look kind of real.
+Mid stages: altered humans and Earth-creatures. Somewhat understandable alien presence. Very whiz-bang technology.
+Late stages: boxiness and humanity all but gone.
+Final/special stage: 
+
+DANGERS
+Vacuum of space
+Running out of air
+The disease
+
+
+Four directions, four buttons. (what about bombs, though...)
+
+
+
+BLACK ― space, darkness
+WHITE ― fire, energy
+BLUE ― AI, robots, cybernetics, nanotech
+GREEN ― plants
+YELLOW ― sentient energy aliens
+ORANGE ― humans
+RED ― virus
+PURPLE ― "regular" aliens
+BROWN ― rats / mice
+GRAY ― metal, framework, level, equipment
+
+Advance cybernetics to Gunpoint-style rewire levels?
+
+Handholds on most walls. No background interactions.
+
+
+Video of rotation in microgravity
+https://www.youtube.com/watch?v=BPMjcN-sBJ4
+* Deapth
+Lights go up, show danger...
+Rescue your friend...
+Flares...
+etc etc etc
+
+Start with only flares, which are renewable. Go a bit down to get harpoon gun, bring it up, fix it. Etc. Always go down with one spare slot, or empty hands, to hold the thing.
+* The Prode and the Fish
+(Old.)
+
+The Prode and the Lingish
+The Prode and the Fish
+Check for bullets, then for hits.
+
+CHARACTERS & ELEMENTS
+Prode.
+Chongper
+Thrame.
+Deast
+Kamass.
+Lingish.
+Lava.
+Spawner.
+H-Beams.
+
+You can run, jump and duck.
+A Chongper destroys the Holy Ground.
+A Thrame tosses fireballs.
+A Deast leaps after and devours you.
+A Kamass splits itself in two and uses its top half as a deadly boomerang.
+A Lingish jumps up and destroys you.
+Lava instantly destroys you.
+A Spawner takes a moment to destroy you.
+H-Beams instantly destroy you.
+
+If you touch a Chongper, it dies.
+If you touch a Thrame, it dies.
+If a Deast touches you, you die.
+If a complete Kamass or the top half of a Kamass toches you, you die.
+If you touch the bottom half of a seperated Kamass, both halves die.
+If a Lingish touches you, you die.
+If lava touches you, you die.
+If you touch a Spawner for more than an instant, you die.
+
+If a fireball tocuhes you, you die and the fireball dissipates.
+If a fireball touches a Thrame or Deast or the bottom half of a Kamass, they die and the fireball dissipates.
+If two fireballs meet, they both dissipate.
+If a fireball touches a Lingish, lava, top half of a Kamass, complete Kamass, wall or ceiling, it dissipates.
+If a fireball touches the ground or a spawner, it bounces.
+If a Lingish touches a Thrame, Deast or Kamass, the monster dies.
+If a Kamass top-half touches another Kamass top-half, a Lingish or the wall, it bounces back.
+If a Kamass top-half touches nothing, it returns to the Kamass bottom-half.
+If a Kamass top-half touches a Thrame or Deast, the monster is destroyed and the top-half continues unempeded.
+
+Behavior:
+A Chongper/Disimin is spawned at a lower spawner. It then makes its way to the Holy Ground, which it then
+begins to systematically corrupt.
+
+A Dark Chongper is the same as a Chongper, but will teleport away from the the player. The only way to defeat
+them is with invisibility.
+
+A Thrame is spawned at a lower spawner. It wanders to the second set of platforms and will randomly decide
+whether or not to continue down, being more likely to do so if the player is not close. In either case the
+Thrame will wander back and forth across its chosen platform (or a portion of that platform, if it's on the
+Holy Ground). If you are on the same platform as it or an immediately lower platform, it will aim and throw
+a fireball at you, then continue on, throwing more fireballs if the player seems to still be in range. A thrame
+will, if bored, create a fireball and toss it from hand to hand. If the player touches the wrong hand, he will
+die.
+
+A Deast is spawned at a higher spawner. It moves only in leaps, first to the lower spawner, then to the side
+platforms, then to the mid platforms, then to the Holy Ground, which it will then prowl. If at any point it
+is on the same platform as a player, or a platform immediately above it, it will attempt to chase the player,
+including down to the lower set of platforms. It can jump across the gaps, but is more likely than the player
+to be eaten by a Lingish. If a Deast finds itself on the lower set of platforms and the player is somewhere
+else, the Deast will remain motionless for a moment, then proceed to one of the jump-pads and thus return to
+the Holy Ground. The Deast can also jump up platforms, but only when the player is properly close. If a Deast
+falls into the lava, it will die. Deasts can be killed by being touched, but only if they are motionless and
+unaware, or other such difficult prerequisites. If two Deasts hit each other mid-lunge, they will both die.
+
+A Kamass is spawned at a higher spawner. It will then make its way down to the lower spawner, then probably
+to the mid platforms, but there is a small chance it will leap directly onto the Holy Ground. Once it reaches
+the Holy Ground it will pace a short ways then pause, then repeat, randomly. If at any point the player is on
+the same level as a Kamass, the Kamass will throw the top half of itself as a boomerang at the player. The
+boomerang will go to a max distance of a little bit past where the player was, then reverse direction and
+return to the Kamass. The bottom half of the Kamass will not move during this period. A Kamass must recover
+between shots, probably about a second. A Kamass will not attack if the player is standing still and looking
+at it, or if the player is crouched (though there is a tiny chance that it will get impatient and do so any-
+way). A Kamass is more likely to throw its boomerang when the player is looking away from it, and especially
+if the player has just changed locations from another level of the field. As more Kamasses appear, they will
+spread themselves out systematically upon the field: first two on the Holy Ground, then one on each lower
+spawner, then one on each midplatform, then one on each side of the bottom. If such a configuration is reached,
+no more will spawn until one of them dies. In this event, the new one will replace the hole in a gap, or, if
+I'm feeling a bit more adventerous, perhaps all of them will move to allow the next one its place. A Kamass
+top-half will return eventually or, if it touches another top-half or the wall or a Lingish, it will bounce
+back. If the bottom half is touched by the player, an angry Deast or a fireball while the two halves are
+seperated, both halves will die.
+
+The Lingish wanders randomly back and forth across one of the gaps in the lower level. If there are no beings
+on the lower level, it will do so randomly. If a being comes down to the lower leve, the Lingish will
+immediately go to the closer hole and wander back and forth only under the hole, and if the being tries to jump
+over the Lingish will leap up to devour it. They are not very likely to catch a Player if the player is smart,
+but they are very likely to catch a leaping Deast. They also leap after fireballs and Kamass top-halves,
+dissipating the former and causing the latter to bounce back.
+
+WAYS FOR PLAYER TO DIE
+Lava, causes player to burn up.
+Spawner, causes player to burn up a different color.
+Thrame fireball, causes player to explode.
+Deast lunge, causes player to be shattered.
+Kamass top-half, causes player to be shattered.
+Lingish, causes player to explode.
+
+WAYS FOR MONSTERS TO DIE
+Chongper: Destroyed by player touch.
+Thrame: Shattered by player touch, Deast lunge and Kamass top-half, exploded by fireballs.
+Deasts: Shattered by player touch, another Deast, Kamass top-half. Fireball, lava or Deast cause it to explode.
+Kamass: Destroyed (both halves) by player touch, fireball or Deast lunge.
+
+SPAWNERS
+Chongpers and Thrames are spawned instantly, but Deasts and Kamasses take one and two seconds, respectively,
+to spawn, during which time they can be killed. Maybe fireballs bounce off of walls, btw?
+
+EVENTS, probably random?
+H-Beams: Beams rain from the sky, destroying everything they touch, including the player. Death animations are
+as follows: Chongper-standard. Thrame-Shattered. Deasts-Shattered. Kamass-Standard. Player-Shattered. All
+animations are accompanied by some special effect.
+
+Invincibility: Player cannot be killed, save by lava and spawners. If he touches a complete Kamass or a lunging
+Deast, the monster is destroyed. If he is touched by a fireball, the fireball dissipates. If he is touched by
+a Kamass top-half, the top-half bounces off. The Lingish will not jump when the player is invincible. Perhaps
+becoming invincible steals the power of the Lingish?
+
+Super agility: Makes player move faster and jump higher. Access to higher spawners is possible, including the
+preemptive killing of Kamasses and Deasts.
+
+Decoy: Sets up a decoy Prode, which runs back and forth across the Holy Land. All
+enemies will ignore the real Prode unless: the enemy and the Prode are both on the bottom level, the player
+and the enemy are on the same non-Holy platform, or the player and a Kamass are both on the same level.
+* Hospital / medical game
+(Old, not update for "Brothers".)
+
+Hospitaliers? Hospitallions?
+
+A simple game. Top-down or side-scrolling; either way, not 3D.
+
+Based on healing people, or sterilizing things. NOT just shooting germs.
+
+Two main things about this game:
+
+First, is to be a self-cooperative game. Use a controller (or a keyboard, if you're crazy). Left stick/face moves character A, right stick/face moves character B. Left shoulder buttons are character A's two actions, right shoulder buttons are character B's two actions. If side-scrolling, then one of the actions is jump.
+
+You MUST use the characters together. It must be made difficult, or rather, nonadvantageous, either to use one character at a time, or to co-op with another human. The former should be achieved through built-in game limits, either preventing the positive (require both characters to open doors, sign documents, etc) or forcing the negative (if you stand a single character still too long, they get infected/sued/whatever). In any case, it should be aesthetically-justified. The latter, discouraging two-player co-op, would be having common things where A and B have to work in perfect tandem. Probably this does not have to be any more complex than requiring them to both perform an action simultaneously, such as would be easy for one person controlling both, but too precise for two people to do reliably.
+
+The other THING about this game would be that it would teach some basic medical facts. Probably nothing more basic than germs vs virus vs antibiotic etc... however, could also maybe teach some basic medication types, or something. TRY TO INTEGRATE IT INTO THE GAME. MAKE THE LEARNING INVISIBLE. I mean, it won't be INVISIBLE invisible, given that the aesthetic of the game will be medicine, but... yeah.
+
+Probably want different usable combinations of A and B. Or maybe you actually pick each from a group? Could be basic types, like Doctor, Nurse, CNA, Specialist, or could be specific people, or it could be specific teams.
+
+(Normal KB min rollover?)
+* X-Men derivative game
+
+Characters / power-traits
++ Regeneration - cannot be killed except by most powerful attack.
++ Mind-control - can take control of any other character (within sight, or range, or touch, etc.).
++ Phasing/teleporting - can teleport or go through walls without harming them; can take other chars with.
++ Strength - super strong.
++ Chameleon - can take form of any other character (that she's seen?), including fooling scanners etc..
++ Leech - nearby characters lose all powers; possible immune to certain powers.
++ Rogue - touching steals another's powers.
++ RogueAlt - touching kills.
++ Angel - flight.
++ Speed.
++ Human - martial artist or whatever.
++ Phoenix - some sort of power, can become too powerful.
++ Shockwave - very powerful, undirected.
++ Android - immune to mind control etc. very mune to certain things
++ Enhancer - enhances others' powers.
+
+Negative traits
++ Wheelchair bound.
++ Frail.
++ Phobia.
++ Magnets.
++ Can't swim.
+
+Objects, etc.
++ Object that briefly maximizes power.
+* Gang-up-on-monster game
+Stealth with multiple characters. Everyone has to jump on the colossus at once.
+
+Limited information (maybe).
+
+Chain-of-command and chain-of-communication (here OR in the oil fire game).
+
+Impossible, or effectively impossible, for flawless victory.
+* Same screen cannon game
+As few as one cannon (which doubles as your Ancient) and one type of changeable block? Maybe two blocks, max. Characters could include a fast swimmer, or a shielder.
+
+Options
++ Make all nodes permanently visible
++ Disable all special abilities
++ Players can/can't choose same character
++ Character choice is blind
++ Turret/thing location is chosen or randomized
++ Sudden death
++ Time/point limit (depending on final game structure)
+
+Special abilities:
+
++ Swim faster
++ Reflective shield
++ Jump
++ Create node
++ Change node at distance
+* Oil fire game
+Main menu is dark oil fountain on dark background. Bursts into flame. Name of game. Entreaty to extinguish fire.
+
+"There are more fires..."
+
+EITHER a realistic game, or an unrealistic game in which the narrator/PC dreams of realistic scenarios.
+
+http://en.wikipedia.org/wiki/Oil_well_fire
+
+Could be oil well fires, oil rig fires, or just fires.
+
+Limited information. Travel of information is important.
+* Productivity simulator
+Power down with sleepiness
+
+Use real data
+
+Second winds, etc.
+
+Get rid of smaller problems first.
+
+NOTE for productivity game, or just for life, maybe try to delineate between at least two catagories of "quality vs quantity". E.g., my fiction writing is far over to the "quality" side, but my journaling is far over to the "quantity" side.
+
+Productivity simulator... bonus for actually completing things... building momentums... encourage not being add.
+
+Maybe, don't make it metaphorical Make it literal and small. VERY small. Actually doable. Just make sure it follows actual methods. Look to 59 Seconds, etc.
+
+Productivity simulator: can model problem of too much multitasking. Better to defer (to bucket or other agent) or do.
+
+NOTE for productivity game, or just for life, maybe try to delineate between at least two catagories of "quality vs quantity". E.g., my fiction writing is far over to the "quality" side, but my journaling is far over to the "quantity" side.

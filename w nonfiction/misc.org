@@ -1,0 +1,44 @@
+* "Advent Conspiracy"
+I found this post to be interesting, but suspected it needed more delicious numbers, so I dug some up.
+
+I was curious about the $4.5^11 figure for Christmas spending by Americans. 
+
+The $4.574^11 offered by the NRF is an estimation, in late 2006, of that year's holiday sales. A more concrete figure, $4.356^11, is given as 2005's holiday sales. What precisely is meant by "holiday sales" is unclear. The same list of information gives the average consumer's spending for the same holiday seasons as $791 and $738, respectively. Dividing the "holiday sales" figures by the "consumer spending" figures does not give a result anywhere near the then-U.S population (~2.956^8, According the [[http://www.google.com/publicdata/explore?ds=kf7tgg1uo9ude_&met_y=population&tdim=true&dl=en&hl=en&q=usa+population][U.S. Census Bureau]]). It gives us a number about two times too high. Therefore, if all these numbers are accurate, the term "holiday sales" is inclusive of significantly more than simply consumer spending (it is worth mentioning that "consumer spending" is also not defined). It is easy to imagine the large gray area of monetary expendetures that might or might not be factored into any of these figures, depending on your methodology.
+
+Another straightforward way to find a "total consumer spending" figure (at this point I am going to assume "consumer spending" means individual spending on gifts, decorations, plane tickets, etc.) is to multiply the result from the latest Gallup [[http://www.gallup.com/poll/150203/Americans-Plan-Spend-Christmas-2011-2010.aspx][Christmas-gifts-spending poll]] ($712) and the latest U.S. Census Bureau population count (3.07^8). This renders a total figure of a little under $2.2^11, less than half of the first figure we had. Likely this figure could be rendered even smaller by the fact that the population count likely includes many non-spenders, such as infants. It is also possible that the $712 Gallup figure is too low, as the poll specifically says it's tracking spending on "Christmas gifts" (wihch implies it is not tracking such things as airfare for Christmas vacations/family reunions); however, given that the Gallup figure is very close to the previous figures we had for individual holiday spending (the historical figures on that poll's page indicate that our previous figures may have actually been too low), it is probably a good one.
+
+The second statistic in the OP is that the lack of clean water kills more people every day than "almost anything else". I'd also like to see the sources for this, and exactly how many causes of death are linked directly to lack of clean waterÅ\but in the meantime, I suspect the statement is accurate, and that most people will not be interested in contesting it.
+
+The third statistic is that the estimated cost of making clean water available to everyone on Earth is $2^10. I assume this figure comes from
+* defending "Our country, right or wrong"
+(SORRY this turned into an essay. Normally when my Facebook posts turn into essays, I file them away and never post them, but I found some good stuff that I didn't want to waste, and also I am REASONABLY CERTAIN that you have thick enough skin that I can argue at you without fear of you tearing up my invitation to your wedding.)
+
+I usually am not so optimistic about my own powers, but I think I may be in a position to enhance your imagination.
+
+The quote derives originally from a toast made by Commodore Stephen Decatur in 1816. There are two reported variants. A local newspaper, the "Niles' Weekly Register", reported the following:
+
+ÅgOur CountryÅ\In her intercourse with foreign nations may she always be in the right, and always successful, right or wrong."
+
+This quote is pretty hard to salvage, as the wording implies that "Our Country" (America) ought to succeed in affairs with foreign nations, even it's place in those affairs is the wrong one.
+
+The other version of the quote, as reported by Slidell Mackenzie in his biography "Life of Stephen Decatur: A Commodore in the Navy of the United States", runs thus (full disclosure: I am unable to find the quote in a digitized copy of this book, not even on page 443, which is where Wikiquote tells me it ought to be. Consequently, its authenticity should be considered dubious):
+
+"Our country! In her intercourse with foreign nations, may she always be in the right; but our country, right or wrong."
+
+This version is much better. While it CAN be interpreted the same way as the first variant, I think that the implication in the words "Our country!" is something like, "May fortune favor our country!". It is, after all, a toast. In this variant, the actual "right or wrong" occurs in a separate clause from the "intercourse with foreign nations", implying (to my reading) that Decatur was not trying to draw any particular connection between the two.
+
+The commonly-quoted "My country, right or wrong", then, is a modern modification of the original. Chesterton takes issue with it, as does Twain ("How absolutely absurd to teach this idea to the youth of the country"). But Carl Schurz offers a clarification Å\ one which is not contradicted by the original, and which is, I think, a quite admirable policy:
+
+"My country, right or wrong; if right, to be kept right; and if wrong, to be set right."
+
+ANYWAY. To bring it back to Chesterton. This is the sentence which immediately follows the one you quoted:
+
+"No doubt if a decent man's mother took to drink he would share her troubles to the last; but to talk as if he would be in a state of gay indifference as to whether his mother took to drink or not is certainly not the language of men who know [love]."
+
+What Chesterton objects to (as made clear here, and earlier in the paragraph) is blind love. But there are ways to interpret the common quote as referring to something other than blind love.
+
+. . .
+
+[[http://books.google.com/books?id=ONw5AAAAcAAJ&pg=PA304&dq=intercourse+%22Life+of+Stephen+Decatur%22&hl=en&sa=X&ei=9bCGU5zMCKfi8gHO-4BY&ved=0CC0Q6AEwAA#v=onepage&q=intercourse%20%22Life%20of%20Stephen%20Decatur%22&f=false][link 1]]
+[[http://en.wikiquote.org/wiki/Stephen_Decatur][link 2]]
+[[http://hamptonroadsnavalmuseum.blogspot.com/2012/04/my-country-right-or-wrong-what-decatur.html][link 3]]

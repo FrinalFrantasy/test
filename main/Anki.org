@@ -1,0 +1,546 @@
+* TODO 
+** TODO confirm Sam/DoRena children
+** TODO confirm Mr. McGrath's name
+** TODO confirm Clemmer children
+** TODO get Oly'Anna's full name, DOB
+** TODO confirm Matt/Oly wedding date
+** TODO get Daniel's full name, DOB
+** TODO confirm Daniel/Elle wedding
+** TODO get Pearl/Jordan wedding info
+** TODO get Jordna's full name, DOB
+** TODO get all Bethany Evan babs names ... maybe
+* Bible
+** Old Testament
+*** Pentateuch / Law
+
+Genesis
+Exodus
+Leviticus
+Numbers
+Deuteronomy
+
+*** History
+
+Joshua
+Judges
+Ruth
+1–2 Samuel
+1–2 Kings
+1–2 Chronicles
+Ezra
+Nehemiah
+Esther
+
+*** Poetry
+
+Job
+Psalms
+Proverbs
+Ecclesiastes
+Song of Songs
+Lamentations
+
+*** Major Prophets
+
+Isaiah
+Jeremiah
+Ezekiel
+Daniel
+
+*** Minor Prophets
+
+Hosea
+Joel
+Amos
+Obadiah
+Jonah
+Micah
+Nahum
+Habakkuk
+Zephaniah
+Haggai
+Zechariah
+Malachi
+
+** New Testament
+*** Gospels
+
+Matthew
+Mark
+Luke
+John
+
+*** History
+
+Acts
+
+*** Epistles (Paul to churches)
+
+Romans
+1–2 Corinthians
+Galatians
+Ephesians
+Philippians
+Colossians
+1–2 Thessalonians
+
+*** Epistles (Paul to individuals)
+
+1–2 Timothy
+Titus
+Philemon
+
+*** Epistles (general)
+
+Hebrews
+James
+1–2 Peter
+1–3 John
+Jude
+
+*** Prophecy
+
+Revelation
+
+* emacs stuff
+
+https://ftp.gnu.org/old-gnu/Manuals/emacs-20.7/html_node/emacs_97.html
+https://orgmode.org/manual/Repeated-tasks.html
+https://orgmode.org/worg/org-faq.html#how-to-organize-org-mode-files
+https://orgmode.org/manual/Plain-lists.html#Plain-lists
+https://www.google.com/search?q=emacs+select+to+end+of+file&rlz=1C1CHBF_enUS775US775&oq=emacs+select+to+end+of+file&aqs=chrome..69i57.3039j0j7&sourceid=chrome&ie=UTF-8
+
+* more emacs
+
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Operating-on-Files.html#Operating-on-Files
+various dired operations, note renamei
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Rectangles.html
+https://orgmode.org/manual/Plain-lists.html
+https://orgmode.org/manual/Checkboxes.html#Checkboxes
+
+figure out how to gracefully recover from crash; recover-session seems to be only partway there? maybe a way to restore-all-files?
+
+how to quickly get back to initial folder in C-x C-f?
+
+* friends' children
+** Augenstein-Horner, Martin & Suha
+
+1 Lilliana
+
+** Bliese, Daniel & Eleanor
+1 Fredrick
+** Casey, Patrick & Emma
+
+1 Charlotte
+
+** Clemmer, Sully & Christine
+
+1 Liam
+2 Larkin
+3 Miriam
+
+** German, Brian & Kalia
+
+1 Grace
+2 Zephaniah
+3 Job
+
+** German, David & Crystal
+
+1 Carter
+
+** Grobien, Gifford & Regina
+
+1 Alena
+2 Julianna
+3 Kimberley
+4 Brigitta
+5 Amelia
+6 Cillian
+7 Makrina
+8 Felicity
+
+** Harrison, Matthew & Oly'anna
+
+1 Benedict
+
+** Hart, Ben & Anna
+
+1 Clara
+2 Genevieve
+3 Gilbert
+
+** Horner, Charley & Karin
+
+1 Anna
+2 Erik
+3 Matthew
+4 Martin
+5 Cecilia
+6 Benjamin
+7 Stephan
+8 Ingrid
+9 Evan
+
+** Jindra, Michael & Ines
+
+1 Nathan
+2 Lucas
+3 Timothy
+
+** McGrath, Sean & Elizabeth
+
+1 Ella
+
+** Meyer, Evan & Bethany
+1 Helen
+2 Jack
+3 Robert
+4 Elizabeth
+** Osbun, Josh & Sarah
+
+1 Evelyn
+2 Cecilia
+3 Katherine
+4 Lydia
+
+** Rodriguez, Kelvin & Melissa
+
+1 Emma Elizabeth
+2 Violet Victoria
+
+** Seyboldt, Elizabeth
+
+1 Alexis
+2 Javier
+3 Vincent
+4 Giovanni
+
+** Stuckwisch, Nicholai & Hannah
+
+1 Guinevere
+
+** Stuckwisch, Richard & LaRena
+
+1 DoRena
+2 Zachary
+3 Nicholai
+4 Monica
+5 Ariksander
+6 Oly'anna
+7 Justinian
+8 Frederick
+9 Gerhardt
+10 Katharina
+
+** Stuckwisch, Zachary & Rebekah
+
+1 Cherianne
+2 Donovan
+
+** Tomaw, Jacob & Joscelynn
+
+1 Jonah
+2 Olivia
+3 Sarah
+4 Caleb
+5 Elias
+
+** Wirgau, Sam & DoRena
+
+1 Serena
+2 Emma
+3 Jude
+
+* family dates
+
+! Add Fredrick's birthday
+! Add Benedict's birthday (soon)
+
+** January
+
+12 birthday: Eleanor Grace Bliese nee Harrison (1993)
+14 Valentine's Day
+16 birthday: Matthew Jeremiah Harrison (1998)
+26 birthday: Gwendolyn Rose Rhein (2014)
+
+** February
+** March
+
+06 birthday: Robert Clinton Rhein (1952)
+
+** April
+
+29 birthday: Jonathan Max Casey (1993)
+
+** May
+
+09 birthday: Luke Daniel Harrison (2000)
+19 birthday: Naomi Sue Kavouras nee Rhein (1985)
+23 wedding: Jonathan Casey & Margaret Rhein (2015)
+2nd Sunday: Mother's Day
+
+** June
+
+12 wedding: Donna Pickrell & Mark Harrison (1982)
+29 birthday: Annalise Faith Harrison (1996)
+3rd Sunday: Father's Day
+
+** July
+
+02 wedding: Nathaniel Rhein & Sarah Harrison (2011)
+14 wedding: Matthew Harrison & Oly'Anna Stuckwisch (2018)
+18 birthday: Cyprian Nathaniel Rhein (2012)
+19 wedding: Robert Rhein & Sandra Uffelman (1980)
+22 birthday: Margaret Ann Casey nee Rhein (1993)
+25 birthday: Paul Benjamin Harrison (1994)
+27 birthday: Emma Elizabeth Rodriguez (2017)
+
+** August
+** September
+
+03 birthday: Amanda Pearl Rhein (1982)
+09 birthday: Samuel Phillip Kavouras (2011)
+16 wedding: Daniel Bliese & Eleanor Harrison (2017)
+17 birthday: Susan Camille Kavouras (2008)
+27 birthday: Saranita Kay Kavouras (2006)
+
+** October
+
+11 birthday: Annabelle Grace Kavouras (2014)
+30 birthday: Mark Steven Harrison (1959)
+
+** November
+
+02 birthday: Sandra Kay Rhein nee Uffelman (1957)
+03 birthday: Donna Joan Harrison nee Pickrell (1960)
+07 birthday: Sarah Joy Rhein nee Harrison (1990)
+
+** December
+
+07 birthday: Nathaniel Robert Rhein (1989)
+23 death: Paul Benjamin Harrison (1996)
+
+* family dates (unobserved)
+** January
+** February
+** March
+
+01 birthday: Nicholas Samuel Kavouras (1985)
+
+** April
+** May
+** June
+
+06 wedding: Nicholas Kavouras & Naomi Rhein (2005)
+
+** July
+** August
+** September
+** October
+** November
+
+18 divorce: Nicholas Kavouras & Naomi Kavouras (2015)
+
+** December
+* hymns
+** 539 Christ Is the World's Redeemer
+
+Christ is the world's Redeemer,
+The lover of the pure,
+The font of heav'nly wisdom,
+Our trust and hope secure,
+The armor of His soldiers,
+The Lord of earth and sky,
+Our health while we are living,
+Our life when we shall die.
+
+Christ has our host surrounded
+With clouds of martyrs bright
+Who wave their palms in triumph
+And fire us for the fight.
+Then Christ the cross ascended
+To save a world undone
+And, suff'ring for the sinful,
+Our full redemption won.
+
+Down through the realm of darkness
+He strode in victory,
+And at the hour appointed
+He rose triumphantly.
+And now, to heav'n ascended,
+He sits upon the throne
+Whence He had ne'er departed,
+His Father's and His own.
+
+Glory to God the Father,
+The unbegotten One,
+All honor be to Jesus,
+His sole-begotten Son,
+And to the Holy Spirit—
+The perfect Trinity.
+Let all the worlds give answer:
+Amen! So let it be.
+
+** 597 Water, Blood, and Spirit Crying
+
+Verse 1
+Water, blood, and Spirit crying,
+By their witness testifying
+To the One whose death-defying
+Life has come, with life for all.
+
+Verse 2
+In a wat'ry grave are buried
+All our sins that Jesus carried;
+Christ, the Ark of Life, has ferried
+Us across death's raging flood.
+
+Verse 3
+Dark the way, yet Christ precedes us,
+Past the scowl of death He leads us;
+Spreads a table where He feeds us
+With His body and His blood.
+
+Verse 4
+Though around us death is seething,
+God, His two-edged sword unsheathing,
+By His Spirit life is breathing
+Through the living, active Word.
+
+Verse 5
+Spirit, water, blood entreating,
+Working faith and its completing
+In the One whose death-defeating
+Life has come, with life for all.
+
+** !717 Eternal Father, Strong to Save
+
+Eternal Father, strong to save,
+Whose arm hath bound the restless wave,
+Who bidd'st the mighty ocean deep
+Its own appointed limits keep:
+O hear us when we cry to Thee
+For those in peril on the sea.
+
+O Christ, the Lord of hill and plain,
+O'er which our traffic runs amain
+By mountain pass or valley low
+Wherever, Lord, Thy people go,
+Protect them by Thy guarding hand
+From ev'ry peril on the land.
+
+O Spirit, whom the Father sent
+To spread abroad the firmament;
+O Wind of heaven, by Thy might
+Save all who dare the eagle's flight
+And keep them by Thy watchful care
+From ev'ry peril in the air.
+
+O Trinity of love and pow'r,
+Our people shield in danger's hour;
+From rock and tempest, fire and foe,
+Protect them wheresoe'er they go;
+Thus evermore shall rise to Thee
+Glad praise from air and land and sea.
+
+
+O Christ, Whose voice the waters heard
+And hushed their raging at Thy word,
+Who walkedst on the foaming deep
+And calm amid its rage didst sleep:
+O hear us when we cry to Thee
+For those in peril on the sea.
+
+Most Holy Spirit, who didst brood
+Upon the chaos dark and rude,
+And bid its angry tumult cease,
+And give, for wild confusion, peace:
+O hear us when we cry to Thee
+For those in peril on the sea
+
+** 805 Praise God, from Whom All Blessings Flow (Doxology)
+
+Praise God, from whom all blessings flow;
+Praise Him, all creatures here below;
+Praise Him above, ye heav'nly host:
+Praise Father, Son, and Holy Ghost.
+Amen. Δ
+
+** !878 Abide With Me
+
+Abide with me, fast falls the eventide.
+The darkness deepens; Lord, with me abide.
+When other helpers fail and comforts flee,
+Help of the helpless, O abide with me.
+
+I need Thy presence ev'ry passing hour;
+What but Thy grace can foil the tempter's pow'r?
+Who like Thyself my guide and stay can be?
+Through cloud and sunshine, O abide with me.
+
+Come not in terrors, as the King of kings,
+But kind and good, with healing in Thy wings;
+Tears for all woes, a heart for ev'ry plea.
+Come, Friend of sinners, thus abide with me.
+
+Swift to its close ebbs out life's little day;
+Earth's joys grow dim, its glories pass away;
+Change and decay in all around I see;
+O Thou who changest not, abide with me.
+
+I fear no foe with Thee at hand to bless;
+Ills have no weight and tears no bitterness.
+Where is death's sting? Where, grave, thy victory?
+I triumph still if Thou abide with me!
+
+Hold Thou Thy cross before my closing eyes;
+Shine through the gloom and point me to the skies.
+Heav'n's morning breaks, and earth's vain shadows flee;
+In life, in death, O Lord, abide with me. 
+
+** !889 Before the Ending of the Day
+
+Before the ending of the day,
+Creator of the world, we pray!
+Thy grace and peace to us allow
+And be our guard and keeper now.
+
+From all the terrors of the night,
+From evil dreams defend our sight;
+Drive far away our wicked foe
+That stain of sin we may not know.
+
+O Father, this we ask be done
+Through Jesus Christ, Thine only Son,
+Who with the Holy Ghost and Thee
+Both lives and reigns eternally. Amen. Δ
+
+* misc
+** learning physics stuff
+** a few knots
+** a few logical fallacies
++ ecological fallacy
++ planning fallacy
++ continuum fallacy
+** [[https://www.mathx.net/image/Quadrilaterals.jpg][simple quadrilaterals]]
+** human proportions
+** favorite jokes
+** subatomic particles
+** bill of rights, constitution, etc
+* geography
+** the Great Lakes
+** largest city per state/country
+* English grammar
++ parts of speech
++ flat adverbs
++ passive voice
++ transitive verb
++ [[https://guidetogrammar.org/grammar/auxiliary.htm][link]]
++ are helping verbs transitive or intransitive
++ [[https://en.wikipedia.org/wiki/Sentence_(linguistics)#Classification][sentence types]]
+* math
+[[https://controls.engin.umich.edu/wiki/index.php/Basic_statistics:_mean,_median,_average,_standard_deviation,_z-scores,_and_p-value][statistics terms]]
+* theology
+** religions/denominations
+** LCMS church year

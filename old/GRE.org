@@ -1,0 +1,216 @@
+* 1. Verbal Diagnostic Test
+
+14/20 = 155-157
+
+hoi-polloi
+peccadilloes
+
+* 2. Math Diagnostic Test
+
+14/20 = 155-157
+
+negatives. fractionals.
+
+* 3. Text Completions
+
+118/144
+
+lascivious
+peccadilloes
+garrulous
+parlous
+sangfroid
+mercurial
+distension
+expatiation
+arcadian
+hinterland
+parochial
+scintillating
+feckless
+voluble
+explicate
+dilettantes
+balkanized
+patrician
+dissembled
+
+* 7. Arithmetic
+
+27/28
+
+proper unit conversion (mi/gal vs km/li, etc)
+
+* 8. Algebra
+
+23/35
+
+lots
+
+* 9. Inequalities and Absolute Values
+
+35/41
+
+A>B = -A<-B
+
+Multiplying or dividing an inequality by a variable can only really be done if it's known whether the variable is positive, negative, or zero.
+
+a^2 - b^2 = (a+b)(a-b)
+
+sqrt(a) * sqrt(b) = sqrt(ab)
+
+a/b * c/d = ac/bd
+
+a/b + c/d = ad+bc/bd
+
+(a/b = c/d) = (ad=bc)
+
+a^6 - b^6 = (a^3 + b^3)(a^3 - b^3)
+
+* 10. Functions, Formulas, and Sequences
+
+50/57
+
+Look for common factors before doing long form
+
+Decimal to fraction via x/1 or whatever
+
+sqrt(x) / sqrt(y) = sqrt(x/y)
+
+* 11. Fractions and Decimals
+
+33/38
+
+Try to x100 multi-level fraction word problems? Unsure
+
+* 12. Percents
+
+48/54
+
+Practise cross-multiplying
+
+Write percents carefully
+
+"Percent" vs "percent more"
+
+Numeric answers only have *one possibility*
+
+* 13. Divisibility & Primes
+
+27/33
+
+"decimal" = after the period
+
+010 is not a three digit number
+
+* 14. Exponents and Roots
+
+23/30
+
+b-sqrt(a) = a^(1/b)
+
+sqrt(x^3) = x*sqrt(x)
+
+* 15. Number Properties
+
+??? lost
+
+* 16. Word Problems
+
+100% but lost
+
+* 17. Two-Variable Word Problems
+
+skipped
+
+* 18. Rates and Work
+
+in progress, did 1-18, lost paper, re-do later?
+
+* 19. Variables-in-the-Choices Problems
+
+2/2
+
+* 20. Ratios
+
+33/36
+
+Values vs amounts (comparing currencies...)
+
+* 21. Averages etc
+
+33/37 (all dumb)
+
+Read/do all problems twice, if possible.
+
+* 22. Standard Deviation etc
+
+23/31
+
+MEMORIZE NORMAL DISTRIBUTION
+
+BE STRICT
+
+Percentiles correspond to actual datum/data
+
+Does box-whisker correspond to quartiles or percentiles? Quartiles can be inbetween values, but percentiles cannot...
+
+* 23. Probability
+
+41/46 all dumb
+
+4&9 are not prime
+
+RE-READ
+
+* 24. Data Interpretation
+
+Got 19/19 correct, skipped the rest.
+
+* 25. Polygons...
+
+20/22
+
+Total of interior angles of polygon
+(n-2)180
+
+* 26. Circles...
+
+22/25
+
+Central angle is double edge angle.
+
+* 27. Triangles
+
+33/42
+
+Might not be necessary, but angles/area from lengths?
+
+Likewise, quadratic formula...
+
+30-60-90 triangles: x, 2x, x*sqrt(3)
+
+* 28. Coordinate Geometry
+
+18/24
+
+Slope-intercept:
+mx+b
+m = slope
+b = y-intercept
+
+"Standard parabolic formula"??
+
+Slope of perpendicular = -1(reciprocal)
+
+* 29. Mixed Geometry
+* 30. Advanced Quant
+
+1-15: 4 wrong
+
+Continuous probability = area under the curve
+
+Practise reverse FOIL (factoring)
+
+Trick! Questions! Is this question tricking you?
+

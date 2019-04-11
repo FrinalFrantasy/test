@@ -1,0 +1,63 @@
+// Nathaniel Rhein
+// Class: TT 3:00 PM
+// Due date: 2019-02-21 (Thursday)
+// Homework #: 4.4
+// Source code: NR_HW4-4_2019-02-21.cpp
+// User enters a positive integer. The program calculates and displays the digit sum of that integer.
+
+
+/* Algorithm
+
+
+  unsigned long int Number // Allows for large positive integers which work with modulo.
+  int DigitSum=0
+
+  write "Please enter a number: "
+  read Number
+  while (Number > 0)
+      DigitSum = DigitSum + (Number % 10) // Adds the right-most digit to the sum.
+      Number = Number * .1 // Removes the right-most digit from the input number.
+  write "Digit sum = ", DigitSum
+
+
+*/
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  unsigned long int Number; // Allows for large positive integers which work with modulo.
+  int DigitSum=0;
+
+  cout << "\nPlease enter a number: ";
+  cin >> Number;
+  while (Number > 0)
+    {
+      DigitSum = DigitSum + (Number % 10); // Adds the right-most digit to the sum.
+      Number = Number * .1; // Removes the right-most digit from the input number.
+    }
+  cout << "Digit sum = " << DigitSum << "\n\n";
+}
+
+
+/* Example outputs
+
+Please enter a number: 14503
+Digit sum = 13
+
+
+Please enter a number: 9999999999
+Digit sum = 90
+
+
+Please enter a number: 0
+Digit sum = 0
+
+
+Please enter a number: 101  
+Digit sum = 2
+
+
+*/

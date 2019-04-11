@@ -1,0 +1,32 @@
+// Nathaniel Rhein
+// Due date: 2019-01-31 (Thursday)
+// Homework #: 2.1
+// Source code: NR_HW2-1_2019-01-31.cpp
+// Class: TT 3:00 PM
+// Program asks user for the height, length, and width of a rectangular solid, then calculates the total volume.
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  float Height, Length, Width;
+  cout << "\nThis program calculates the volume of a rectangular solid.\n";
+  cout << "Please enter height: ";
+  cin >> Height;
+  cout << "Please enter length: ";
+  cin >> Length;
+  cout << "Please enter width: ";
+  cin >> Width;
+  cout << "The total volume of the solid is " << Height*Length*Width << ". Goodbye!\n\n";
+}
+
+/* Example outputs
+
+This program calculates the volume of a rectangular solid.
+Please enter height: 4
+Please enter length: 5
+Please enter width: 1.5
+The total volume of the solid is 30. Goodbye!
+
+*/

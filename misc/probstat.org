@@ -1,0 +1,19 @@
+* [[https://www.reddit.com/r/serialpodcast/comments/2sy3ut/serial_for_statisticians_the_problem_of/][overfitting]]
+"As statisticians or methodologists, my colleagues and I find Serial a fascinating case to debate. As one might expect, our discussions often relate topics in statistics. If anyone is interested, I figured I might post some of our interpretations in a few posts.
+
+In Serial, SK concludes by saying that she's unsure of Adnan's guilt, but would have to acquit if she were a juror. Many posts on this subreddit concentrate on reasonable doubt, with many concerning alternate theories. Many of these are interesting, but they also represent a risky reversal of probabilistic logic.
+
+As a running example, let's consider the theory "Jay and/or Adnan were involved in heavy drug dealing, which resulted in Hae needing to die," which is a fairly common alternate story.
+
+Now let's consider two questions. Q1: What is the probability that our theory is true given the evidence we've observed? And Q2: What is the probability of observing the evidence we've observed, given that the theory is true. The difference is subtle: The first theory treats the theory as random but the evidence as fixed, while the second does the inverse.
+
+The vast majority of alternate theories appeal to Q2. They explain how the theory explains the data - or at least, fits certain, usually anomalous, bits of the evidence. That is, they seek to build a story that explains away the highest percentage of the chaotic, conflicting evidence in the case. The theory that does the best job is considered the best theory.
+
+Taking Q2 to extremes is what statisticians call 'overfitting'. In any single set of data, there will be systematic patterns and random noise. If you're willing to make your models sufficiently complicated, you can almost perfectly explain all variation in the data. The cost, however, is that you're explaining noise as well as real patterns. If you apply your super complicated model to new data, it will almost always perform worse than simpler models.
+
+In this context, it means that we can (and do!) go crazy by slapping together complicated theories to explain all of the chaos in the evidence. But remember that days, memory and people are all random. There will always be bits of the story that don't fit. Instead of concocting theories to explain away all of the randomness, we're better off trying to tease out the systematic parts of the story and discard the random bits. At least as best as we can. Q1 can help us to do that."
+* misc. links, things to learn
+[[https://www.purplemath.com/modules/boxwhisk3.htm][Interquartile Ranges & Outliers]]
+[[https://en.wikipedia.org/wiki/Box_plot][Box plot]]
+[[https://en.wikipedia.org/wiki/Seven-number_summary][Seven-number summary]]
+[[https://stats.stackexchange.com/questions/149161/confused-by-location-of-fences-in-box-whisker-plots][fence location]]

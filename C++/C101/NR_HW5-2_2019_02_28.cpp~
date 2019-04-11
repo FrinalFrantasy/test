@@ -1,0 +1,59 @@
+// Nathaniel Rhein
+// Class: TT 3:00 PM
+// Due date: 2019-02-28 (Thursday)
+// Homework #: 5.2
+// Source code: NR_HW5-2_2019-02-28.cpp
+// 
+
+
+/* Algorithm
+
+
+asd
+
+
+*/
+
+
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+int main()
+{
+  int Num1, Num2;
+  char Opr, YesNo='y';
+  cout << "\nINTEGER CALCULATOR 1.0\n";
+  while ( (YesNo=='y') || (YesNo=='Y') )
+    {
+      cout << "\nNEW OPERATION\n";
+      cout << "First integer      : ";
+      cin >> Num1;
+      cout << "Second integer     : ";
+      cin >> Num2;
+      cout << "Operand (+ - * / %): ";
+      cin >> Opr;
+      switch (Opr)
+	{
+	case '+': cout << Num1 << Opr << Num2 << "=" << Num1+Num2; break;
+	case '-': cout << Num1 << Opr << Num2 << "=" << Num1-Num2; break;
+	case '*': cout << Num1 << Opr << Num2 << "=" << Num1*Num2; break;
+	case '/': cout << Num1 << Opr << Num2 << "=" << Num1/Num2; break;
+	case '%': cout << Num1 << Opr << Num2 << "=" << Num1%Num2; break;
+	case '0': NewOp=0; break;
+	default: cout << "ERROR: INVALID OPERAND\n";
+	}
+      cout << "\nWould you like to perform another operation? (Y N): ";
+      cin >> YesNo;
+    }  
+  cout << "\nGoodbye!\n";
+}
+
+
+/* Example output
+
+
+asd
+
+
+*/

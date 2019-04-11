@@ -1,0 +1,134 @@
+* Three Step Analysis
+
+1) Understand the problem
+2) list inputs, outputs, equations
+3) Limits or constraints on the input.
+
+* input
+** input buffer
++ iostream is buffered. Buffering is mediated by the Enter key.
++ conio is not buffered. Keystrokes are read immediately.
+
+** numeric input rules
+1) input is buffered
+2) skip all leading whitespace
+3) first character encountered must be numeric; else, depending on the interpreter [?], the program will continue to run, flagging ohp [not sure what that stands for, but means that the IB content is bad]
+4) if the first character is numeric, then it continues to process all characters until hitting a non-numeric one
+
+** character input rules
+1) Reads first non-whitespace character
+
+** misc.
++ cin.get only reads character(s) from the input buffer
++ cin.ignore(100,'\n') removes characters from IB, stopping after 100 OR at the first newline.
+
+* Class style rules
+** Variables
+1) No global variables
+2) First letter uppercase, following letters lowercase
+3) CamelCase
+4) Constants are ALL UPPCERCASE (this is a common convention)
+
+** Pseudocode
+Can use any reasonable words for commands ("write", "show", "output" etc), so long as we're consistent.
+
+* computer workings
+
+The CPU is composed of three parts:
+1) CU - Control Unit
+2) ALU - Arithmetic Logic Unit
+3) Registers
+
+* misc. helpful stuff
+
++ If there are issues with Visual Studio, can ask for help from someone named Gino (sp?) at the computer lab.
++ Lab printer: Northside 164
+
+** To write a program:
+1) Write using *text editor*.
+2) Compile using *compiler* (if there are no errors, the compiler translates it into machine code, with holes).
+3) *Linker* fills in the holes.
+
+*** Further details:
+1) editor > source code (*.cpp)
+2) preprocessor (#include <header>) - done before compiler
+3) compiler
+4) linker > executible file (*.exe)
+5) loader
+6) run it
+NOTE: rebuild command in Visual Studio does steps 3 and 4
+
+* switch
++ cases MUST be constants
+
+* Loops
+
+** while - fires while condition is true
+** do while - same, but always fires at least once
+** for - same as while, but has some stuff built into its calling
+for (N=0; N<=100; ++N) {Sum+=N}
+for (LCV=initial; expression; LCV change) {loop content}
+
+T: You don't need to declare the LCV prior to the for loop. But, in newer versions of MVS ^^test?^^, while the for loop can reference variables already in existence, the LCV declared inthe loop ^^and other variables declared in the loop?^^ don't exist outside the loop. But if the LCV was initialized before the loop, it will remember its value after the loop. But, if you re-initialize it in the loop, that's actually a new, temporary variable. ^^uncertain, test plz^^
+
+for (;;)
+legal code, but causes infinite loop
+
+* functions
+
+** Function Rules
+Functions should be designed to solve one logicall coherent task or idea, and the function's name should indicate clearly what that task or idea is.
+
+** syntax for declaring a function
+ReturnValueDataType FunctionName (FormalParameterList)
+{variables declared; statements; return expression;}
+
+The return expression is optional.
+
+* headers
+** math.h
++ pow(x,y)
++ sqrt(x)
+
+** To avoid infinite loops:
+1) Initialize LCV (Loop Control Variable)
+2) Test LCV as part of the loop activation
+3) Update/change LCV as part of the loop's content
+
+** break
+The "break" command stops loops. But avoid using this command, when possible.
+
+* other commands
++ exit() exits the program
+
+* Variables
++ C variables must be declared at the beginning of the program.
++ C++ variables can be declared anywhere, but must be declared before use.
++ Constants are declared via e.g. "const int", and MUST be given a value at declaration
+
+** Attributes
+1) name
+2) value
+3) data type
+4) size (in RAM)
+
+** naming rules
+1) First character must be alphanumeric or underscore
+2) Following characters can be alphanumeric or underscore [redundant?]
+3) C & C++ are case-sensitive
+4) Up to either 2^5=32 or 2^8-1=255 characters [teacher unsure]
+5) Cannot be a reserved word (e.g. "if")
+
+* backslash characters
+
+\n newline
+\t tab
+\f form feed
+\a alarm [sound]
+\" "
+\\ \
+\r carriage return
+
+* todo
+Test break not in a loop
+Extract info from review questions #2

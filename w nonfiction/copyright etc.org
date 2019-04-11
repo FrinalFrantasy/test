@@ -1,0 +1,30 @@
+Super rough.
+
+Paper book
+    CAN
+        Keep indefinitely
+        Copy
+        Pass on indefinitely
+        Sell
+        Lend
+    CANNOT
+        Copy and sell text (by any means)
+        Copy and sell original (at least, it certainly seems duplicitous)
+eBook
+    CAN
+        Keep indefinitely
+        Copy/convert
+    GRAY
+        Pass on
+        Lend
+        Sell
+    CANNOT
+        Copy and sell text
+
+Ethically, when should copyright expire? Or profits? Author's death? Hard to say.
+Honestly, I don't even really mind not being able to lend or sell. I can even live with not being able to bequeath. This idea that the book/license/whatever is sold entirely and specifically to ME... what I buy is a permanent membership to a club, and the copying/converting is just the logistics of how to get there. Yeah, it lacks some of the things "traditional" publishing has, but it has advantages, too.
+    ...mostly work by redownloading or backing things up, with the honor system as a fallback. Yes, the honor system, because DRM has no effect. You can make something illegal, which will prevent from doing it the sort of people who do not do illegal things.
+
+    Arguably a compromise between "traditional" publishing and the storytelling that came before it: storytelling was more about the performer, and there was no copyright. But the difference here is that in storytelling, copying/converting was tons of work; in publishing, copying/converting is some work; in digitial media, it's no work at all.
+
+...publishing and digital also preserve authorship and exactness and authenticity, which I like... not perfectly, obviously, but orders of magnitude better than storytelling.

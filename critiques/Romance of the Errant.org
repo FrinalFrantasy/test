@@ -1,0 +1,152 @@
+* chapters
+** Part I: Blood of the Wolf, Blood of the Eagle
+*** Middle Fall 1276, the Chambers of the High Queen at the Berethavan Palace, Iarbeth, Capital of Iarnoth
+
+Queen has recently had child die in infancy/birth.
+Tells Aedhon a bedtime story.
+Queen dies.
+
+*** Early Summer 1283, the Berethavan Palace Library
+
+Erig is taking more to his martial education; Aedhon to intellectual.
+
+* characters
+** the High King
+** the High Queen
+
+third(?) son died in infancy
+
+** Aedhon
+
+Erig's brother
+prince
+Totem: Smallfox
+11 in 1283
+
+** Erig
+
+Aedhon's brother
+prince
+Totem: brown bear
+
+** the king(?)
+** Ecilia
+
+queen's "aged handmaid"
+
+* historical characters
+** Khavan the Wolf
+
+Ancestor of Aedhon etc. Legend says he saw the White Stag without dying, and because of this was able to defeat Maldrim and the traitor clans.
+Either had a wolf totem or could turn into a wolf, possibly both.
+Fought Maldrim the Runemaster
+
+** Moren Masdus
+
+Princes' tutor; family physician.
+
+** Emperor Thansveld
+
+Wrote the Meditations.
+
+** Teacher Moren
+
+Founded Morenism. From Felner.
+Brother of Maldrim.
+
+** Maldrim
+
+Brother of Moren.
+Runemaster.
+Sacked Fir Felner, invaded laren lands.
+Fought Khavan the Wolf.
+
+** Thauvan Firstfather
+** Solom the Sorcerer
+
+Said to have found a gate to Paradise.
+Said to be half divine.
+
+** Gerelith
+
+Master of the Venhelir. Drank living blood to increase their vitality. Banished from the city of Guthu by the great King Carush.
+
+* locations
+** Iarnoth
+** Daghva
+
+A previous High King. The current High King's grandfather.
+
+*** Iarbeth (capital)
+**** Berethavan Palace
+*** Iarnoth's Great Ridge
+
+Includes the Palace, I think.
+
+** Girion
+
+"used to be a kingdom all its own - many centuries ago"
+
+** Rothael province
+* history
+** Felneren year ~1882
+
+Crumbling of the Felneren Empire
+Teacher Moren leaves Felner "to spread his wisdom to the world"
+Sea-Loss
+Thauvan Firstfather and the Meidels landed somewhere.
+Moren's brother Maldrim becomes the Runemaster, sacks the capital at Fir Felner, and invades "what are now laren lands".
+Maldrim vs Khavan.
+
+* misc
+
++10
+
+** Morenism
+
+Includes "book, meditation, and Mystery", or somesuch.
+
+** Felneren
+
+An old language.
+
+** Meidelen
+
+An old language, ancestral to Aedhon et al.
+
+** the Meditations
+
+An old book(s), written by Emperor Thansveld.
+
+* notes
+** typos
+*** 22 "The cover, two thin wooden boards joined by rotting cloth, were burned at the edges."
+
+Should be "was".
+
+** style
+*** 4
+
+> “The queen is very tired, Prince Aedhon,”
+
+Should "queen" be capitalized?
+
+*** 5 etc
+
+What sort of dashes are being used?
+
+*** 5 "The spool of time counts many little strands."
+
+Notable.
+
+** prose
+*** 13 etc
+
+Lore-dump.
+
+*** 21 etc
+
+Continued lore-dump. Around 2 new characters/locations/events/concepts per page. Too many. Feel like Aedhon (and Erig) being weirdly excited about history which is kind of old news to them is an attempt to get the reader interested. Probably a better way to go about this. Maybe just one or two stories to focus on, and a purposely-dry list, if needed. Or footnotes...
+
+** plot
+* critique

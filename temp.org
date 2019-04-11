@@ -1,0 +1,36 @@
+* EDC
+(not including clothing)
+
+1) pajamas
+   + phone
+2) house
+   + Altoids
+   + ScrewPop
+   - keys
+   - bandana
+   - wallet
+     - caffeine
+     - cards
+     - Spry
+     - Swiss knife
+   - pen
+   - notebook
+3) out of house
+   + sunglasses
+   + gloves
+4) away
+   - battery pack
+   - USB-C cable
+   - QuickCharge adapter
+
+* LATER
++ get going with Spanish
++ Tribble re church
++ church TV set up
++ improve Termux shortcuts
+
+* TOMORROW
+  + take hymnals to Grandpa
+  + ask Dad if we need to transport Grandma
+  + bring circular saw etc..
+  + powerline ethernet? camera?

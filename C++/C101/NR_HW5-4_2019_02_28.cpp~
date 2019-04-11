@@ -1,0 +1,37 @@
+// Nathaniel Rhein
+// Class: TT 3:00 PM
+// Due date: 2019-02-28 (Thursday)
+// Homework #: 5.3
+// Source code: NR_HW5-3_2019-02-28.cpp
+// 
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  unsigned int Number=1;
+  cout << endl;
+  while (Number!=0)
+    {
+      cout << "Please enter a number: ";
+      cin Number;
+      if ( (Number%2==1) && {Number%3==0) )
+	{
+	  cout << "This number is odd, is divisible by 3, and its final digit is " << Number%10 << endl;
+	}
+      else
+	{
+	  cout << "This number does not work." << endl;
+	}
+    }
+}
+
+
+/* Example output
+
+
+
+
+
+*/

@@ -1,0 +1,95 @@
+Male/Female: just try to show?
+Lawful: chain?
+Day/Night: obv
+Ordered/Chaotic: ?
+War/Peace/Militial: what is held. Beast has claws, Wanderer has staff or axe or spear, merchant has quill and parchment, Wizard has wand or flask or water; King has sword and something else, olive branch or whatever
+
+* (Kind of outdated.)
+
+First, some [[Crux probability|http://ask.metafilter.com/251265/Probability-and-a-rather-unique-deck-of-cards#inline-3649091]].
+
+Next: Ideally, Crux is capable of all of the following (most important bolded):
+
+1 player solitaire (1 player vs the deck)
+2 player solitaire
+(3+ player solitaire?)
+2 player FFA
+3 player FFA
+4 player FFA
+4 player 2v2
+5-8 player FFA
+6 player 2v2v2
+6 player 3v3
+8 player 2v2v2v2
+3-8 player irregular teams
+Betting play (probably doesn't apply to solitaire)
+Non-betting play
+Organic complexity (grows over time)
+Pre-defined complexity (set at outset of game)
+Renders semi-coherent story
+
+THE CHARACTERS, IN CYCLICAL ORDER:
+King
+Beast
+Trader
+Nomad
+Mage
+
+THE AGES, IN ORDER:
+Child
+Adult
+Elder
+Dead
+
+THE SUITS, NO ORDER:
+Eyes
+Hands
+Hearts
+
+
+|!King| Male | Bound | Day / Future / Spring | Orderly | ''Militial'' |
+|!Beast| ''Sexless/Genderless'' | Unbound | Night / Past / Summer | Chaotic | Warlike |
+|!Merchant| Female | ''Binding'' | Day / Future / Fall | Orderly | Peaceful |
+|!Wanderer| Male | Bound | ''Uncertain Time / Present / Uncertain Time'' | Chaotic | Warlike |
+|!Thaumaturge| Female | Unbound | Night / Past / Winter | ''Order-bringing'' | Peaceful |
+
+* The Rules of Crux
+
+NOTE: These rules, in their current state, do not result in a playable game. It's just the best I've got.
+
+** SETUP
+Each player begings with a hand of six cards, of which they choose one to be their champion. This they put face-down in front of them. When all players have selected a champion, all the champions are turned face-up, and play begins.
+
+** WINNING
++ A player wins when at the beginning of their turn there is only one card in the highest tier (the "castle"), and it is the same character as that player's champion.
+++ If multiple players have the same character as champion, the player whose champion is oldest wins.
+++ If multiple players have the same character of the same age as champion, the one whose champion matches the suit of the castle character wins.
+++ If two players have the same character of the same age as champion, and neither of their champions matches suit with the castle character, those players tie.
++ NOTE: Prioritizing characters over suits means there can be no more than five teams.
++ POSSIBILITY: Prioritize suits over characters.
++ POSSIBILITY: Give players the option of passing their turn, and if every player passes, the game is a draw.
+
+** PLAY
++ A turn consists of any two of the following actions, in any order.
+++ Drawing a card.
++++ Cannot be done if one currently holds ten cards, not including one's champion.
+++ Discarding a card from one's hand.
+++ Playing a card from one's hand.
++++ If playing a non-dead card, the card must be played onto either the current lowest tier, or a new lowest tier.
++++ 
++++ If playing a dead card, the card must be played on top of a living card of the same character and suit.
+++ Moving one in-play card to the next-highest tier.
++++ POSSIBILITY: This cannot be done if the card is currently threatened.
+++ Moving one in-play card to the next-lowest tier.
++++ This cannot be done unless the card is currently threatened.
+++ Playing one's champion.
++++ Same rules as playing a card from one's hand apply.
++++ POSSIBILITY: Make this action only playable as the first action, and require that it be followed by the selection of a new champion. Otherwise, add "selecting a new champion from one's hand" as a possible action.
++++ POSSIBILITY: Make selecting a new champion by a free, and mandatory, action.
++++ POSSIBILITY: Give the ability to select a character from the lowest tier (possibly alone?) as a new champion. This would require either playing a dead card, allowing a player to end a turn without a champion, or making selecting a champion a free action.
++++ GOOD POSSIBILITY: You do not have to have a champion when your turn ends, and choosing a champion is not a free action, and you can choose a lone character from the lowest tier; however, if you have no champion, your next action must be to select a new one. If you cannot, maybe you lose?
+
+Something about discarding cards to make plays. Like-suits trumping non-like.
+
+* ALTERNATE CRUX
+Simpler. Keep variable ending reqs. Much simpler cascade mechanics (single rule? 2 max?)

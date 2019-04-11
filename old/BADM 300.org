@@ -1,0 +1,349 @@
+Quantitative Analysis
+
+* Chapter 1 notes
+
+quantitative analysis: the scientific approach to managerial decision making; also called "management science" and "operations research"
+"When there is a lack of qualitative factors and when the problem, model, and unput data remain the same, the results of quantitative analysis can AUTOMATE the decision-making process. ... In most cases, however, quantitative analysis will be an AID to the decision-making process."
+POM: production/operations management
+business analytics: data-driven approach to decision making; three catagories:
+    descriptive: study and consolidation of historical data
+    predictive: forecasting future outcomes based on patterns in the past data
+    prescriptive: optimization methods to provide new and better ways to operate
+quantitative analysis approach:
+    defining a problem
+    developing a model
+    acquiring input data
+    developing a solution
+    testing the solution
+    analyzing the results
+    implementing the results
+controllable variable: also called "decision variable"
+sensitivity analysis: also called postoptimality analysis; determines how the solutions will change with a different model or input data
+
+profit = revenue - (fixed cost + variable cost)
+profit = (selling price per unit)(number of units sold) - [fixed cost + (variable cost per unit)(number of units sold)]
+profit = sX - [f + vx]
+profit = sX - f - vX
+profit = (s-v)X - f
+
+s = selling price per unit
+f = fixed cost
+v = variable cost per unit
+X = number of units sold
+
+BEP: break-even point
+X = f/(s-v)
+
+deterministic models: do not involve risk/chance
+probabilistic models: involve risk/chance
+
+    From an implementation standpoint, a "good" solution to the RIGHT problem is much better than an "optimal" solution to the WRONG problem.
+* Chapter 3 notes
+
+decision theory: an analytic and systematic approach to the study of decision making
+
+six steps in decision making:
+    1. Clearly define the problem at hand.
+    2. List the possible alternatives.
+    3. Identify the possible outcomes or states of nature.
+    4. List the payoff (typically profit) of each combination of alternatives and outcomes.
+    5. Select one of the mathematical decision theory models.
+    6. Apply the model and make your decision.
+
+risk: probability known
+uncertainty: probability unknown
+
+criteria for decision making under conditions of uncertainty:
+    1. Optimistic / maximax
+        choose alternative with best best possible payoff
+    2. Pessimistic / maximin
+        choose alternative with best worst possible payoff
+    3. Criterion of realism (Hurwicz) / weight average
+        combination of 1 and 2, weighted by α (1=most optimistic, 0=most pessimistic)
+        weighted average = α(best in row) + (1-α)(worst in row)
+    4. Equally likely (Laplace)
+        self-explanatory
+    5. Minimax regret
+        first, define values in terms of opportunity cost
+        i.e., how much worse they are than the best possible value, given state X
+        average EOLs for each alternative
+        choose alternative with best worst possible payoff
+
+
+    1-4 can be computed directly from decision (payoff) table
+    5 requires use of opportunity loss table
+
+coefficient of realism: α
+opportunity cost: also called "regret"
+
+criteria for decision making under conditions of risk:
+
+EMV: expected monetary value
+bEMV: best expected monetary value
+
+EMV = ∑X(i)P(X(i))
+    X(i) = payoff for the alternative in state of nature (i)
+    P(X(i)) = probability of achieving payoff X(s) (i.e., probability of state of nature (i))
+    ∑ = summation symbol
+
+EVwPI: expected value with perfect information
+EVPI: expected value of perfect information
+
+EVwPI = ∑P(i)bEMV(i)
+    for all possible states i
+
+EVPI = EVwPI - bEMV
+(may turn these around in calculating costs, in order for positive-is-bad to become positive-is-good)
+
+EOL: expected opportunity loss
+
+EOL of choice X = bEMV of all choices - EV of choice X
+EOL of choice X = worst EOL of all choices - EV of choice X
+
+sensitivity analysis: investigates how a decision might change with different input data
+
+for approach X, 0 = (best EOL state + worst EOL state)P - (worst EOL state)
+worst EOL state / (best + worst EOL states) = P at which approach X = 0
+
+EVSI: expected value of sample information
+EVSI = (EV with SI + cost of SI) - (EV without SI)
+
+efficiency of sample information = EVSI/EVPI (usually expressed as a percentage)
+* Chapter 5 notes
+Forecasting
+
+Forecasting techniques
+    Qualitative Models
+        Delphi Method
+        Jury of Executive Opinion
+        Sales Force Composite
+        Consumer Market Survey
+    Time-Series Methods (quantitative)
+        Moving Averages
+        Exponential Smoothing
+        Trend Projections
+        Decomposition
+    Causal Methods (quantitative)
+        Regression Analysis
+        Multiple Regression
+
+Qualitative: Delphi method
+    Iterative group process
+    Includes decision makers, staff personnel, respondents
+    Usually includes 5–10 experts who make the actual forecast
+    Questionnaires and surveys. Send them out, get them back, revise them, send them out again.
+
+Qualitative: Jury of executive opinion
+    Takes the opinions of a small group of high-level managers
+    May also use statistical models
+
+Qualitative: Sales force composite
+    Each salesperson estimates sales in their region
+    Combine and consolidate
+
+Causal models
+    Uses historical numeral data
+    Variable to be forecast is influenced by or correlated with other variables included in the model
+
+Time-series models
+    Uses only the historical data of the variable in question
+    E.g., extrapolations of past values
+
+Components of a time-series
+    T Trend
+        General upward or downward movement over relatively long period of time
+    S Seasonal
+        Regular fluctuations over the year
+    C Cyclical
+        Regular fluctuations over long periods of time (years, decades)
+    R Random
+        Any variation unexplained by previous
+
+General forms of time-series models (more complex models exist)
+    Multiplicative: Demand = T*S*C*R
+    Additive:       Demand = T+S+C+R
+
+Forecast error = forecast deviation
+Forecast error = Actual value - Forecast value
+
+Measures of forecast accuracy (n = number of forecasts)
+    MAD: Mean Absolute Deviation
+        ∑|forecast error| / n
+    MSD: Mean Square Error
+        ∑(error)² / n
+    MAPE: Mean Absolute Percent Error
+        ( ∑|error/actual| / n ) * 100%
+    Bias: average error
+        (can be positive or negative; positive and negative can cancel each other out)
+
+naïve model: forecast whatever the last value was
+
+Moving Averages
+    n-period moving average forecast = sum of demands in previous n periods / n
+    F(t+1) = Y(t)+Y(t-1)+...+Y(t-n+1) / n
+    LaTeX: F_{t+1}=\frac{Y_{t}+Y_{t-1}+...+Y{t-n+1}}{n}
+
+Weighted Moving Averages
+    F(t+1) = ∑(weight(i))(i) / ∑(weights)
+    LaTeX: F_{t+1}=\frac{w_{1}Y_{t}+w_{2}Y_{t-1}+...+w_{n}Y_{t-n+1}}{w_{1}+w_{2}+...+w_{n}}
+
+Moving averages cannot point higher or lower than their data; they cannot indicate trends.
+
+Exponential Smoothing
+    New forecast = last period's forecast + α(last period's demand - last period's forecast)
+    LaTeX: F_{t+1}=F_{1}+\alpha (Y_{t}-F_{t})
+    α = smoothing constant (0 ≤ α ≤ 1)
+
+Notes on exponential smoothing:
+    α=.5, new forecast based almost entirely on demand in the past three periods
+    α=.1, new forecast based on past ~19 periods
+
+Exponential Smoothing with Trend
+    Uses two smoothing constants
+        α: same as previous
+        β: multiplied by the most recent error or excess amount in the trend
+        FIT(t): exponential smoothing Forecast Including Trend
+
+    Step 1: Smoothed forecast = previous forecast including trend + α
+        F(t+1) = FIT(t) + α(Y(t)-FIT(t))
+        LaTeX: F_{t+1}=FIT_t+\alpha(Y_t-FIT_t)
+    Step 2: Update the trend (T(t+1)) using the equation
+        T(t+1) = T(t) + β(F(t+1)-FIT(t))
+        LaTeX: T_{t+1}=T_t+\beta(F_{t+1}-FIT_t)
+    Step 3: Calculate the trend-adjusted exponential smoothing forecast (FIT(t+1)) using the equation
+        Forecast including trend (FIT(t+1)) = smoothed forecast (F(t+1)) + smoothed trend (T(t+1))
+        FIT(t+1) = F(t+1)+T(t+1)
+        LaTeX: FIT_{t+1}=F_{t+1}+T_{t+1}
+
+        T_t = smoothed trend for time period t
+        F_t = smoothed forecast for time period t
+        FIT_t = forecast including trend for time period t
+        α = smoothing constant for forecasts
+        β = smoothing constant for trend
+
+Trend Projection
+    Fits a trend line to a series of historical data points and then projects the line into the future for medium- to long-range forecasts.
+        exponential
+        quadratic
+        linear
+            Ŷ = b_0 + b_1 · X
+                Ŷ = predicted value
+                b_0 = intercept
+                b_1 = slope of the line
+                X = time period (i.e., X = 1,2,3,...,n)
+
+Adjusting for seasonal variations
+    Seasonal indices: indicates how a particular season (e.g. month, quarter) compares with an average season
+
+    Calculating seasonal indices with no trend
+        Simply divide the average value for a particular season by the average of all the data.
+
+    Calculating seasonal indices with trend
+CMA: centered moving average
+
+Forcasting models — trend, seasonal, and random variations
+    The decomposition method
+* Chapter 6 notes
+Inventory Control Models
+
+Uses of inventory
+    1. The decoupling function
+    2. Storing resources
+    3. Irregular supply and demand
+    4. Quantity discounts
+    5. Avoiding stockouts and shortages
+
+Some costs of inventory
+    1. Cost of the items (purchase cost or material cost)
+    2. Cost of ordering
+    3. Cost of holding, or holding, inventory
+    4. Cost of stockouts
+
+Some ordering cost factors
+    Developing and sending purchase orders
+    Processing and inspecting incoming inventory
+    Bill paying
+    Inventory inquiries
+    Utilities, phone bills, and so on for the purchasing department
+    Salaries and wages for purchasing department employees
+    Supplies such as forms and paper for the purchasing department
+
+Some holding cost factors
+    Cost of capital
+    Taxes
+    Insurance
+    Spoilage
+    Theft
+    Obsolescence
+    Salaries and wages for warehouse employees
+    Utilities and building costs for the warehouse
+    Supplies such as forms and paper for the warehouse
+
+Economic Order Quantity: Determining How Much to Order
+
+EOQ: economic order quantity
+    Makes the following assumptions
+        1. Demand is known and constant over time.
+        2. The lead time—that is, the time between the placement of the order and the receipt of the order—is known and constant.
+        3. The receipt of inventory is instantaneous. In other words, the inventory from an order arrives in one batch, at one point in time.
+        4. The purchase cost per unit is constant throughout the year. Quantity discounts are not possible.
+        5. The only variable costs are the cost of placing an order (ordering cost), and the cost of holding or storing inventory over time (holding / holding cost). The holding cost per unit per year and the ordering cost per order are constant throughout the year.
+        6. Orders are placed so that stockouts or shortages are avoided completely.
+
+TERMS
+    Q = number of pieces per order / production run
+    EOQ / Q* = optimal number for Q
+    C = cost per unit
+    C_h = holding cost per unit per year
+    I = holding cost as a percentage of the unit cost
+    C_o = cost per order / production run
+    C_s = setup cost
+    D = annual demand
+    d = daily demand
+    P = annual production
+    p = daily production
+    t = length of production run in days
+    L = lead time for a new order
+    ROP = reorder point
+
+FORMULAS (delivery)
+    Q* = √ (2DC_o)/(C_h)
+    total annual cost (ordering + holding) for a given Q = (D/Q)C_o + (Q/2)C_h
+    annual setup cost = D/Q C_s
+    annual ordering cost = D/Q C_o
+    annual holding cost = Q/2 C_h
+    ROP = dL
+
+FORMULAS (production run)
+    Q* (production run) = √ (2DC_s)/[C_h(1 - d/p)]
+    average inventory = Q/2 (1 - d/p)
+    maximum inventory = (pt) - (dt)
+    annual holding cost = Q/2 (1 - d/p) C_h
+
+FORMULAS (quantity discount)
+    total cost = DC + (D/Q)C_o + (Q/2)C_h
+    Q* = √ ( 2DC_o / IC )
+        for each discount level; if Q* is less than the minimum for the discount, adjust that Q* to the minimum
+        find total cost for each discount level; choose lowest
+
+?
+    Costs are minimized when ordering cost (or setup cost) = holding cost.
+
+SAFETY STOCK
+    service level = what percentage of time customer demand is met
+    service level = 1 - probability of stockout
+    
+    When demand during lead time is normally distributed,
+        safety stock = Zσ_(dLT)
+        ROP = Zσ_(dLT) + (Average demand during lead time) 
+            Z = number of standard deviations for a given service level
+            σ_(dLT) = standard devation of demand during the lead time
+
+    When demand is variable and lead time is constant,
+        ROP = μ_d L + Z(σ_d √L)
+
+    When demand is constant and lead time is variable,
+        ROP = μ_d L + Z(d σ_L)
+
+    When both demand and lead time are variable,
+        ROP = μ_d μ_L + Z(√ (μ_L (σ_d)^2 + (μ_d)^2 * (σ_L)^2))

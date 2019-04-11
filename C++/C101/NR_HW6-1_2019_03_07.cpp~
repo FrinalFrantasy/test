@@ -1,0 +1,105 @@
+/******************************************************************
+Name : Nathaniel Rhein and Matt Holloway
+Date : due 2019-03-07 (Thursday)
+Homework # :  Homework #6 Problem #1
+Source  : NR_HW6-1_2019-03-07.cpp
+Action  :  Menu is displayed allows user to calculate
+		   Miles per Gallon, Total minutes and seconds
+		   and determine if number is a prime number or not
+
+Notes  :
+********************************************************************/
+
+#include <iostream>
+#include <stdlib.h>      // this header file requires the .h
+using namespace std;
+
+void DisplayMenu(void);
+void FindMilesPerGallon(void);
+void ConvertTotalSeconds(void);
+void IsPrimeNumber(void);
+
+int main()
+{
+  int Choice;
+
+  system("cls");	// this clears the output screen
+
+  DisplayMenu();
+  cin >> Choice;
+  while (Choice != 4)
+    {
+      switch (Choice)
+        {
+	case 1: FindMilesPerGallon(); break;
+	case 2: ConvertTotalSeconds(); break;
+	case 3: IsPrimeNumber(); break;
+        default: cout << "Sorry illegal choice, Please try again\n\n"; break;
+        }
+      DisplayMenu();
+      cin >> Choice;
+    }
+}
+
+/*********************  DisplayMenu  ************************************
+Action  :  This just displays the menu to the screen
+Parameters  : none
+returns     : nothing
+***********************************************************************/
+void DisplayMenu()
+{
+  cout << "\n\nDo you want to:\n";
+  cout << "   1) Find miles per gallon\n";
+  cout << "   2) Convert total seconds to minutes and seconds\n";
+  cout << "   3) Determine if number is a prime number or not\n";
+  cout << "   4) QUIT\n\n";
+  cout << "  CHOICE --> ";
+}
+
+/********************  FindMilesPerGallon  ******************************
+Action  : Ask user to input number of miles traveled and number of
+          gallons used then display the miles per gallon obtained.
+Parameters : none
+returns    : nothing
+------------------------------------------------------------------------*/
+void FindMilesPerGallon()
+{
+  float Miles, Gallons;
+  system("cls");
+  cout << "How many miles were travelled? ";
+  cin >> Miles;
+  cout << "How many gallons of gas were used? ";
+  cin >> Gallons;
+  cout << "ANSWER: " << Miles/Gallons << "MPG";
+}
+
+/******************** ConvertTotalSeconds *********************
+Action  : Ask user to input a given total number of seconds and then
+          displays the corresponding number of minutes and seconds
+Parameters : none
+returns    : nothing
+-------------------------------------------------------------------------*/
+void ConvertTotalSeconds()
+{
+  int Seconds;
+  system("cls");
+  cout << "How many seconds? ";
+  cin >> Seconds;
+  cout << Seconds/60 << " hours and " << Seconds%60 << " seconds";
+}
+
+/*********************** IsPrimeNumber()****************************
+Action  : Ask user to input positive integer and will determine if number
+          is a prime number or not.
+Parameters  : none
+Returns     : nothing
+-------------------------------------------------------------------*/
+void IsPrimeNumber()
+{
+  unsigned int Number;
+  system("cls");
+  cout << "What number would you like to test? ";
+  cin >> Number;
+  cout << "The number " << Number << "is ";
+  //  if (Number
+}

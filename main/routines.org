@@ -1,0 +1,36 @@
+* Evening
+** TODO Do kegels (set 2)
+** TODO Check tomorrow's calendar
+** TODO Set alarm clock
+* Household
+** TODO Do dishes
+SCHEDULED: <2018-12-28 Fri ++1d>
+
+** TODO Do laundry
+SCHEDULED: <2018-12-28 Fri ++1d>
+
+* Morning
+** TODO Do kegels (set 1)
+** TODO Do mobility routine
+** TODO Turn off alarm clock
+** TODO Add wood to fire
+** TODO Take med
+* Sarah & kids home
+** TODO Rearrange carseats for tomorrow
+** TODO Check Gwen's notebook
+** TODO Repack Gwen's purple bag
+** TODO Repack Sarah's lunchbox
+** TODO Repack Zippy's backpack
+** TODO Check Zippy's notebook
+* Sarah & Zippy leave
+** TODO Get dressed
+** TODO Do Gwen's hair
+** TODO Get Gwen dressed
+** TODO Make bed
+* monthly
+** TODO Add Emmaus calendar to GC
+* annual
+** TODO Add Beckwith Theatre events to calendar
+
+https://www.beckwiththeatre.com/schedule
+

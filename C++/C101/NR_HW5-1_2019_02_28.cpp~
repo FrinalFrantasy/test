@@ -1,0 +1,45 @@
+// Nathaniel Rhein
+// Class: TT 3:00 PM
+// Due date: 2019-02-28 (Thursday)
+// Homework #: 5.1
+// Source code: NR_HW5-1_2019-02-28.cpp
+//
+
+
+/* Algorithm
+
+
+*/
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  char TestChar='a';
+  int Uppers=0, Lowers=0, Numbers=0, Others=0;
+  cout << "\nHello! This program gives information about characters - letters, numbers, and so on. Enter characters one at a time, and end by entering the pound (#) symbol.\n";
+  while (TestChar != '#')
+       {
+	 cout << "Please enter a character: ";
+	 cin >> TestChar;
+	 if ((TestChar >= 97) && (TestChar <= 122)) Lowers++;
+	 else if ((TestChar >= 65) && (TestChar <= 90)) Uppers++;
+ 	 else if ((TestChar >= 48) && (TestChar <= 57)) Numbers++;
+	 else Others++;
+       }
+  cout << "\nUppercase letters entered: " << Uppers;
+  cout << "\nLowercase letters entered: " << Lowers;
+  cout << "\nNumbers entered: " << Numbers;
+  cout << "\nNon-alphanumeric characters entered: " << Others;
+  
+}
+
+
+/* Example outputs
+
+
+
+
+*/

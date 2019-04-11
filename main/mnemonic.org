@@ -1,0 +1,80 @@
+* notes
+I need to actually test different formulas: PA, PAO, COVIA, 3-object, affects, etc.
+
+
+
+52 cards, 2704
+3 cards with 2 images, assuming 1000 images.
+
+1 deck = 52 images
+    PAO = 18 loci
+    COVIA = 11 loci
+
+1 deck = 36 images
+    1000 = 12 loci
+
+2 3  5  6   10
+4 8 32 64 1024
+
+52/ 26 13 4 2
+
+1          52
+2        2704
+3      140608
+4     7311616
+5   380204032
+5/4  95051008
+
+1         100
+2       10000
+3     1000000
+4   100000000
+
+1        1000
+2     1000000
+3  1000000000
+
+Nibbler Bending One-Ring wearingDr.Scarf with SlowDown
+
+S'pht Smoking Eggs wearingSupesCape with water
+
+Nibbler One-Ring Scarf
+
+
+
+COMBINATIONS TO TEST
+Character-Action
+Character-Action-Object
+Object-Affect
+    Color
+    Outfit
+    Substance?
+Object-Object-Object
+
+COMPETITIONS TO BE AWARE OF
+Binary digits, rows of 30
+Cards, decks of 52
+Dates
+
+LONG-TERM MEMORIZATIONS
+Dates: XXXX-XX-XX (some XXX-XX-XX)
+       ^0-1
+            ^0-1
+               ^0-3
+
+8 digits
+Maybe SHOULD stick with 100...
+
+
+11 Character categories?
+    0 games
+    1 pixar
+    2 other movies
+    3 tv shows
+    4 mythology
+    5 generic/occupation
+    6 books
+    7 animals
+    8 
+    9 
+    A 
